@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "cg_science_001",
+    "topCategory": "culture_generale",
+    "subCategory": "science",
+    "question": {
+      "fr": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+      "en": "What is the most abundant chemical element in the universe?",
+      "es": "¿Cuál es el elemento químico más abundante en el universo?",
+      "de": "Was ist das häufigste chemische Element im Universum?"
+    },
+    "choiceLeft": { "fr": "Hydrogène", "en": "Hydrogen", "es": "Hidrógeno", "de": "Wasserstoff" },
+    "choiceRight": { "fr": "Hélium", "en": "Helium", "es": "Helio", "de": "Helium" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "L'hydrogène représente environ 75 % de la matière baryonique de l'univers.",
+      "en": "Hydrogen makes up about 75% of all baryonic matter in the universe.",
+      "es": "El hidrógeno constituye aproximadamente el 75 % de toda la materia bariónica del universo.",
+      "de": "Wasserstoff macht etwa 75 % der gesamten baryonischen Materie im Universum aus."
+    },
+    "emoji": "🔬"
+  },
+  {
+    "id": "cg_science_002",
+    "topCategory": "culture_generale",
+    "subCategory": "science",
+    "question": {
+      "fr": "Combien d'os compte le corps humain adulte ?",
+      "en": "How many bones does the adult human body have?",
+      "es": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+      "de": "Wie viele Knochen hat der erwachsene menschliche Körper?"
+    },
+    "choiceLeft": { "fr": "208", "en": "208", "es": "208", "de": "208" },
+    "choiceRight": { "fr": "206", "en": "206", "es": "206", "de": "206" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le squelette humain adulte est composé de 206 os.",
+      "en": "The adult human skeleton is made up of 206 bones.",
+      "es": "El esqueleto humano adulto está compuesto por 206 huesos.",
+      "de": "Das erwachsene menschliche Skelett besteht aus 206 Knochen."
+    },
+    "emoji": "🦴"
+  },
+  {
+    "id": "cg_science_003",
+    "topCategory": "culture_generale",
+    "subCategory": "science",
+    "question": {
+      "fr": "Quelle est la vitesse de la lumière dans le vide ?",
+      "en": "What is the speed of light in a vacuum?",
+      "es": "¿Cuál es la velocidad de la luz en el vacío?",
+      "de": "Wie schnell ist das Licht im Vakuum?"
+    },
+    "choiceLeft": { "fr": "300 000 km/s", "en": "300,000 km/s", "es": "300.000 km/s", "de": "300.000 km/s" },
+    "choiceRight": { "fr": "150 000 km/s", "en": "150,000 km/s", "es": "150.000 km/s", "de": "150.000 km/s" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "La lumière se déplace à environ 299 792 km/s, arrondi à 300 000 km/s.",
+      "en": "Light travels at about 299,792 km/s, rounded to 300,000 km/s.",
+      "es": "La luz viaja a unos 299.792 km/s, redondeado a 300.000 km/s.",
+      "de": "Licht bewegt sich mit etwa 299.792 km/s, gerundet auf 300.000 km/s."
+    },
+    "emoji": "💡"
+  },
+  {
+    "id": "cg_science_004",
+    "topCategory": "culture_generale",
+    "subCategory": "science",
+    "question": {
+      "fr": "Quel gaz les plantes absorbent-elles lors de la photosynthèse ?",
+      "en": "Which gas do plants absorb during photosynthesis?",
+      "es": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+      "de": "Welches Gas nehmen Pflanzen bei der Photosynthese auf?"
+    },
+    "choiceLeft": { "fr": "Oxygène", "en": "Oxygen", "es": "Oxígeno", "de": "Sauerstoff" },
+    "choiceRight": { "fr": "Dioxyde de carbone", "en": "Carbon dioxide", "es": "Dióxido de carbono", "de": "Kohlendioxid" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Les plantes absorbent le CO₂ et rejettent de l'oxygène lors de la photosynthèse.",
+      "en": "Plants absorb CO₂ and release oxygen during photosynthesis.",
+      "es": "Las plantas absorben CO₂ y liberan oxígeno durante la fotosíntesis.",
+      "de": "Pflanzen nehmen CO₂ auf und geben bei der Photosynthese Sauerstoff ab."
+    },
+    "emoji": "🌿"
+  },
+  {
+    "id": "cg_science_005",
+    "topCategory": "culture_generale",
+    "subCategory": "science",
+    "question": {
+      "fr": "Quel est le plus grand organe du corps humain ?",
+      "en": "What is the largest organ of the human body?",
+      "es": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "de": "Was ist das größte Organ des menschlichen Körpers?"
+    },
+    "choiceLeft": { "fr": "La peau", "en": "The skin", "es": "La piel", "de": "Die Haut" },
+    "choiceRight": { "fr": "Le foie", "en": "The liver", "es": "El hígado", "de": "Die Leber" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "La peau est le plus grand organe, pesant environ 3,6 kg chez l'adulte.",
+      "en": "The skin is the largest organ, weighing about 3.6 kg in adults.",
+      "es": "La piel es el órgano más grande, con un peso de unos 3,6 kg en adultos.",
+      "de": "Die Haut ist das größte Organ und wiegt bei Erwachsenen etwa 3,6 kg."
+    },
+    "emoji": "🧬"
+  },
+  {
+    "id": "cg_science_006",
+    "topCategory": "culture_generale",
+    "subCategory": "science",
+    "question": {
+      "fr": "Quel métal est liquide à température ambiante ?",
+      "en": "Which metal is liquid at room temperature?",
+      "es": "¿Qué metal es líquido a temperatura ambiente?",
+      "de": "Welches Metall ist bei Raumtemperatur flüssig?"
+    },
+    "choiceLeft": { "fr": "Gallium", "en": "Gallium", "es": "Galio", "de": "Gallium" },
+    "choiceRight": { "fr": "Mercure", "en": "Mercury", "es": "Mercurio", "de": "Quecksilber" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le mercure (Hg) est le seul métal courant liquide à température ambiante (point de fusion −39 °C).",
+      "en": "Mercury (Hg) is the only common metal that is liquid at room temperature (melting point −39 °C).",
+      "es": "El mercurio (Hg) es el único metal común líquido a temperatura ambiente (punto de fusión −39 °C).",
+      "de": "Quecksilber (Hg) ist das einzige gängige Metall, das bei Raumtemperatur flüssig ist (Schmelzpunkt −39 °C)."
+    },
+    "emoji": "🌡️"
+  },
+  {
+    "id": "cg_science_007",
+    "topCategory": "culture_generale",
+    "subCategory": "science",
+    "question": {
+      "fr": "Quelle particule subatomique a une charge positive ?",
+      "en": "Which subatomic particle has a positive charge?",
+      "es": "¿Qué partícula subatómica tiene carga positiva?",
+      "de": "Welches subatomare Teilchen hat eine positive Ladung?"
+    },
+    "choiceLeft": { "fr": "Proton", "en": "Proton", "es": "Protón", "de": "Proton" },
+    "choiceRight": { "fr": "Neutron", "en": "Neutron", "es": "Neutrón", "de": "Neutron" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Le proton porte une charge positive, tandis que le neutron est électriquement neutre.",
+      "en": "The proton carries a positive charge, while the neutron is electrically neutral.",
+      "es": "El protón tiene carga positiva, mientras que el neutrón es eléctricamente neutro.",
+      "de": "Das Proton trägt eine positive Ladung, während das Neutron elektrisch neutral ist."
+    },
+    "emoji": "⚛️"
+  },
+  {
+    "id": "cg_science_008",
+    "topCategory": "culture_generale",
+    "subCategory": "science",
+    "question": {
+      "fr": "Quel est le symbole chimique de l'or ?",
+      "en": "What is the chemical symbol for gold?",
+      "es": "¿Cuál es el símbolo químico del oro?",
+      "de": "Was ist das chemische Symbol für Gold?"
+    },
+    "choiceLeft": { "fr": "Go", "en": "Go", "es": "Go", "de": "Go" },
+    "choiceRight": { "fr": "Au", "en": "Au", "es": "Au", "de": "Au" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le symbole Au vient du latin « aurum », qui signifie or.",
+      "en": "The symbol Au comes from the Latin word 'aurum', meaning gold.",
+      "es": "El símbolo Au proviene del latín 'aurum', que significa oro.",
+      "de": "Das Symbol Au stammt vom lateinischen Wort 'aurum', das Gold bedeutet."
+    },
+    "emoji": "🥇"
+  },
+  {
+    "id": "cg_science_009",
+    "topCategory": "culture_generale",
+    "subCategory": "science",
+    "question": {
+      "fr": "Combien de chromosomes possède une cellule humaine normale ?",
+      "en": "How many chromosomes does a normal human cell have?",
+      "es": "¿Cuántos cromosomas tiene una célula humana normal?",
+      "de": "Wie viele Chromosomen hat eine normale menschliche Zelle?"
+    },
+    "choiceLeft": { "fr": "46", "en": "46", "es": "46", "de": "46" },
+    "choiceRight": { "fr": "48", "en": "48", "es": "48", "de": "48" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Les cellules humaines contiennent 46 chromosomes, soit 23 paires.",
+      "en": "Human cells contain 46 chromosomes, organized in 23 pairs.",
+      "es": "Las células humanas contienen 46 cromosomas, organizados en 23 pares.",
+      "de": "Menschliche Zellen enthalten 46 Chromosomen, die in 23 Paaren organisiert sind."
+    },
+    "emoji": "🧬"
+  },
+  {
+    "id": "cg_science_010",
+    "topCategory": "culture_generale",
+    "subCategory": "science",
+    "question": {
+      "fr": "Quel est le point d'ébullition de l'eau au niveau de la mer ?",
+      "en": "What is the boiling point of water at sea level?",
+      "es": "¿Cuál es el punto de ebullición del agua a nivel del mar?",
+      "de": "Was ist der Siedepunkt von Wasser auf Meereshöhe?"
+    },
+    "choiceLeft": { "fr": "90 °C", "en": "90 °C", "es": "90 °C", "de": "90 °C" },
+    "choiceRight": { "fr": "100 °C", "en": "100 °C", "es": "100 °C", "de": "100 °C" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "L'eau bout à 100 °C (212 °F) à la pression atmosphérique standard.",
+      "en": "Water boils at 100 °C (212 °F) at standard atmospheric pressure.",
+      "es": "El agua hierve a 100 °C (212 °F) a presión atmosférica estándar.",
+      "de": "Wasser siedet bei 100 °C (212 °F) bei normalem Atmosphärendruck."
+    },
+    "emoji": "🔥"
+  },
+  {
+    "id": "cg_history_001",
+    "topCategory": "culture_generale",
+    "subCategory": "history",
+    "question": {
+      "fr": "En quelle année a eu lieu la prise de la Bastille ?",
+      "en": "In what year did the storming of the Bastille take place?",
+      "es": "¿En qué año tuvo lugar la toma de la Bastilla?",
+      "de": "In welchem Jahr fand der Sturm auf die Bastille statt?"
+    },
+    "choiceLeft": { "fr": "1789", "en": "1789", "es": "1789", "de": "1789" },
+    "choiceRight": { "fr": "1799", "en": "1799", "es": "1799", "de": "1799" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "La prise de la Bastille a eu lieu le 14 juillet 1789, marquant le début de la Révolution française.",
+      "en": "The storming of the Bastille took place on July 14, 1789, marking the start of the French Revolution.",
+      "es": "La toma de la Bastilla tuvo lugar el 14 de julio de 1789, marcando el inicio de la Revolución Francesa.",
+      "de": "Der Sturm auf die Bastille fand am 14. Juli 1789 statt und markierte den Beginn der Französischen Revolution."
+    },
+    "emoji": "🏰"
+  },
+  {
+    "id": "cg_history_002",
+    "topCategory": "culture_generale",
+    "subCategory": "history",
+    "question": {
+      "fr": "Qui était le premier empereur romain ?",
+      "en": "Who was the first Roman emperor?",
+      "es": "¿Quién fue el primer emperador romano?",
+      "de": "Wer war der erste römische Kaiser?"
+    },
+    "choiceLeft": { "fr": "Jules César", "en": "Julius Caesar", "es": "Julio César", "de": "Julius Cäsar" },
+    "choiceRight": { "fr": "Auguste", "en": "Augustus", "es": "Augusto", "de": "Augustus" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Auguste (Octavien) est devenu le premier empereur romain en 27 av. J.-C. César était dictateur, pas empereur.",
+      "en": "Augustus (Octavian) became the first Roman emperor in 27 BC. Caesar was a dictator, not an emperor.",
+      "es": "Augusto (Octaviano) se convirtió en el primer emperador romano en el 27 a.C. César fue dictador, no emperador.",
+      "de": "Augustus (Oktavian) wurde 27 v. Chr. der erste römische Kaiser. Cäsar war Diktator, nicht Kaiser."
+    },
+    "emoji": "🏛️"
+  },
+  {
+    "id": "cg_history_003",
+    "topCategory": "culture_generale",
+    "subCategory": "history",
+    "question": {
+      "fr": "En quelle année Christophe Colomb a-t-il atteint l'Amérique ?",
+      "en": "In what year did Christopher Columbus reach America?",
+      "es": "¿En qué año llegó Cristóbal Colón a América?",
+      "de": "In welchem Jahr erreichte Christoph Kolumbus Amerika?"
+    },
+    "choiceLeft": { "fr": "1492", "en": "1492", "es": "1492", "de": "1492" },
+    "choiceRight": { "fr": "1502", "en": "1502", "es": "1502", "de": "1502" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Colomb a atteint les Bahamas le 12 octobre 1492 lors de son premier voyage.",
+      "en": "Columbus reached the Bahamas on October 12, 1492, during his first voyage.",
+      "es": "Colón llegó a las Bahamas el 12 de octubre de 1492 durante su primer viaje.",
+      "de": "Kolumbus erreichte die Bahamas am 12. Oktober 1492 während seiner ersten Reise."
+    },
+    "emoji": "🚢"
+  },
+  {
+    "id": "cg_history_004",
+    "topCategory": "culture_generale",
+    "subCategory": "history",
+    "question": {
+      "fr": "Quelle civilisation a construit le Machu Picchu ?",
+      "en": "Which civilization built Machu Picchu?",
+      "es": "¿Qué civilización construyó Machu Picchu?",
+      "de": "Welche Zivilisation hat Machu Picchu erbaut?"
+    },
+    "choiceLeft": { "fr": "Les Mayas", "en": "The Maya", "es": "Los Mayas", "de": "Die Maya" },
+    "choiceRight": { "fr": "Les Incas", "en": "The Incas", "es": "Los Incas", "de": "Die Inka" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le Machu Picchu a été construit par les Incas au XVe siècle dans les Andes péruviennes.",
+      "en": "Machu Picchu was built by the Incas in the 15th century in the Peruvian Andes.",
+      "es": "Machu Picchu fue construido por los incas en el siglo XV en los Andes peruanos.",
+      "de": "Machu Picchu wurde im 15. Jahrhundert von den Inka in den peruanischen Anden erbaut."
+    },
+    "emoji": "🏔️"
+  },
+  {
+    "id": "cg_history_005",
+    "topCategory": "culture_generale",
+    "subCategory": "history",
+    "question": {
+      "fr": "Combien de temps a duré la Guerre de Cent Ans ?",
+      "en": "How long did the Hundred Years' War last?",
+      "es": "¿Cuánto duró la Guerra de los Cien Años?",
+      "de": "Wie lange dauerte der Hundertjährige Krieg?"
+    },
+    "choiceLeft": { "fr": "116 ans", "en": "116 years", "es": "116 años", "de": "116 Jahre" },
+    "choiceRight": { "fr": "100 ans", "en": "100 years", "es": "100 años", "de": "100 Jahre" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "La Guerre de Cent Ans a duré de 1337 à 1453, soit 116 ans.",
+      "en": "The Hundred Years' War lasted from 1337 to 1453, a total of 116 years.",
+      "es": "La Guerra de los Cien Años duró de 1337 a 1453, un total de 116 años.",
+      "de": "Der Hundertjährige Krieg dauerte von 1337 bis 1453, insgesamt 116 Jahre."
+    },
+    "emoji": "⚔️"
+  },
+  {
+    "id": "cg_history_006",
+    "topCategory": "culture_generale",
+    "subCategory": "history",
+    "question": {
+      "fr": "Quel mur divisait Berlin pendant la guerre froide ?",
+      "en": "Which wall divided Berlin during the Cold War?",
+      "es": "¿Qué muro dividió Berlín durante la Guerra Fría?",
+      "de": "Welche Mauer teilte Berlin während des Kalten Krieges?"
+    },
+    "choiceLeft": { "fr": "Le mur de Berlin", "en": "The Berlin Wall", "es": "El Muro de Berlín", "de": "Die Berliner Mauer" },
+    "choiceRight": { "fr": "Le rideau de fer", "en": "The Iron Curtain", "es": "El Telón de Acero", "de": "Der Eiserne Vorhang" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Le mur de Berlin a divisé la ville de 1961 à 1989. Le rideau de fer était un concept géopolitique, pas un mur physique à Berlin.",
+      "en": "The Berlin Wall divided the city from 1961 to 1989. The Iron Curtain was a geopolitical concept, not a physical wall in Berlin.",
+      "es": "El Muro de Berlín dividió la ciudad de 1961 a 1989. El Telón de Acero era un concepto geopolítico, no un muro físico en Berlín.",
+      "de": "Die Berliner Mauer teilte die Stadt von 1961 bis 1989. Der Eiserne Vorhang war ein geopolitisches Konzept, keine physische Mauer in Berlin."
+    },
+    "emoji": "🧱"
+  },
+  {
+    "id": "cg_history_007",
+    "topCategory": "culture_generale",
+    "subCategory": "history",
+    "question": {
+      "fr": "Qui a été le dernier pharaon d'Égypte ?",
+      "en": "Who was the last pharaoh of Egypt?",
+      "es": "¿Quién fue el último faraón de Egipto?",
+      "de": "Wer war der letzte Pharao Ägyptens?"
+    },
+    "choiceLeft": { "fr": "Néfertiti", "en": "Nefertiti", "es": "Nefertiti", "de": "Nofretete" },
+    "choiceRight": { "fr": "Cléopâtre VII", "en": "Cleopatra VII", "es": "Cleopatra VII", "de": "Kleopatra VII." },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Cléopâtre VII fut la dernière souveraine de la dynastie ptolémaïque, morte en 30 av. J.-C.",
+      "en": "Cleopatra VII was the last ruler of the Ptolemaic dynasty, who died in 30 BC.",
+      "es": "Cleopatra VII fue la última gobernante de la dinastía ptolemaica, fallecida en el 30 a.C.",
+      "de": "Kleopatra VII. war die letzte Herrscherin der ptolemäischen Dynastie und starb 30 v. Chr."
+    },
+    "emoji": "👑"
+  },
+  {
+    "id": "cg_history_008",
+    "topCategory": "culture_generale",
+    "subCategory": "history",
+    "question": {
+      "fr": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin en Europe ?",
+      "en": "In what year did World War II end in Europe?",
+      "es": "¿En qué año terminó la Segunda Guerra Mundial en Europa?",
+      "de": "In welchem Jahr endete der Zweite Weltkrieg in Europa?"
+    },
+    "choiceLeft": { "fr": "1944", "en": "1944", "es": "1944", "de": "1944" },
+    "choiceRight": { "fr": "1945", "en": "1945", "es": "1945", "de": "1945" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "L'Allemagne a capitulé le 8 mai 1945, mettant fin à la guerre en Europe.",
+      "en": "Germany surrendered on May 8, 1945, ending the war in Europe.",
+      "es": "Alemania se rindió el 8 de mayo de 1945, poniendo fin a la guerra en Europa.",
+      "de": "Deutschland kapitulierte am 8. Mai 1945 und beendete damit den Krieg in Europa."
+    },
+    "emoji": "🕊️"
+  },
+  {
+    "id": "cg_history_009",
+    "topCategory": "culture_generale",
+    "subCategory": "history",
+    "question": {
+      "fr": "Quel empire était dirigé par Gengis Khan ?",
+      "en": "Which empire was led by Genghis Khan?",
+      "es": "¿Qué imperio fue dirigido por Gengis Kan?",
+      "de": "Welches Reich wurde von Dschingis Khan angeführt?"
+    },
+    "choiceLeft": { "fr": "Empire mongol", "en": "Mongol Empire", "es": "Imperio mongol", "de": "Mongolenreich" },
+    "choiceRight": { "fr": "Empire ottoman", "en": "Ottoman Empire", "es": "Imperio otomano", "de": "Osmanisches Reich" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Gengis Khan a fondé l'Empire mongol en 1206, le plus grand empire terrestre contigu de l'histoire.",
+      "en": "Genghis Khan founded the Mongol Empire in 1206, the largest contiguous land empire in history.",
+      "es": "Gengis Kan fundó el Imperio mongol en 1206, el mayor imperio terrestre contiguo de la historia.",
+      "de": "Dschingis Khan gründete 1206 das Mongolenreich, das größte zusammenhängende Landreich der Geschichte."
+    },
+    "emoji": "🐎"
+  },
+  {
+    "id": "cg_history_010",
+    "topCategory": "culture_generale",
+    "subCategory": "history",
+    "question": {
+      "fr": "Quel pays a lancé la première bombe atomique sur Hiroshima ?",
+      "en": "Which country dropped the first atomic bomb on Hiroshima?",
+      "es": "¿Qué país lanzó la primera bomba atómica sobre Hiroshima?",
+      "de": "Welches Land warf die erste Atombombe auf Hiroshima ab?"
+    },
+    "choiceLeft": { "fr": "Royaume-Uni", "en": "United Kingdom", "es": "Reino Unido", "de": "Vereinigtes Königreich" },
+    "choiceRight": { "fr": "États-Unis", "en": "United States", "es": "Estados Unidos", "de": "Vereinigte Staaten" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Les États-Unis ont largué « Little Boy » sur Hiroshima le 6 août 1945.",
+      "en": "The United States dropped 'Little Boy' on Hiroshima on August 6, 1945.",
+      "es": "Estados Unidos lanzó 'Little Boy' sobre Hiroshima el 6 de agosto de 1945.",
+      "de": "Die Vereinigten Staaten warfen am 6. August 1945 'Little Boy' auf Hiroshima ab."
+    },
+    "emoji": "💣"
+  },
+  {
+    "id": "cg_inventions_001",
+    "topCategory": "culture_generale",
+    "subCategory": "inventions",
+    "question": {
+      "fr": "Qui a inventé l'ampoule électrique commerciale ?",
+      "en": "Who invented the commercial electric light bulb?",
+      "es": "¿Quién inventó la bombilla eléctrica comercial?",
+      "de": "Wer erfand die kommerzielle elektrische Glühbirne?"
+    },
+    "choiceLeft": { "fr": "Thomas Edison", "en": "Thomas Edison", "es": "Thomas Edison", "de": "Thomas Edison" },
+    "choiceRight": { "fr": "Nikola Tesla", "en": "Nikola Tesla", "es": "Nikola Tesla", "de": "Nikola Tesla" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Edison a breveté l'ampoule électrique à incandescence pratique en 1879.",
+      "en": "Edison patented the practical incandescent light bulb in 1879.",
+      "es": "Edison patentó la bombilla incandescente práctica en 1879.",
+      "de": "Edison patentierte 1879 die praktische Glühlampe."
+    },
+    "emoji": "💡"
+  },
+  {
+    "id": "cg_inventions_002",
+    "topCategory": "culture_generale",
+    "subCategory": "inventions",
+    "question": {
+      "fr": "Qui a inventé le téléphone ?",
+      "en": "Who invented the telephone?",
+      "es": "¿Quién inventó el teléfono?",
+      "de": "Wer hat das Telefon erfunden?"
+    },
+    "choiceLeft": { "fr": "Guglielmo Marconi", "en": "Guglielmo Marconi", "es": "Guglielmo Marconi", "de": "Guglielmo Marconi" },
+    "choiceRight": { "fr": "Alexander Graham Bell", "en": "Alexander Graham Bell", "es": "Alexander Graham Bell", "de": "Alexander Graham Bell" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Bell a obtenu le premier brevet pour le téléphone en 1876. Marconi a inventé la radio.",
+      "en": "Bell received the first patent for the telephone in 1876. Marconi invented the radio.",
+      "es": "Bell obtuvo la primera patente del teléfono en 1876. Marconi inventó la radio.",
+      "de": "Bell erhielt 1876 das erste Patent für das Telefon. Marconi erfand das Radio."
+    },
+    "emoji": "📞"
+  },
+  {
+    "id": "cg_inventions_003",
+    "topCategory": "culture_generale",
+    "subCategory": "inventions",
+    "question": {
+      "fr": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
+      "en": "Who invented movable type printing in Europe?",
+      "es": "¿Quién inventó la imprenta de tipos móviles en Europa?",
+      "de": "Wer erfand den Buchdruck mit beweglichen Lettern in Europa?"
+    },
+    "choiceLeft": { "fr": "Gutenberg", "en": "Gutenberg", "es": "Gutenberg", "de": "Gutenberg" },
+    "choiceRight": { "fr": "Léonard de Vinci", "en": "Leonardo da Vinci", "es": "Leonardo da Vinci", "de": "Leonardo da Vinci" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Johannes Gutenberg a inventé l'imprimerie à caractères mobiles vers 1440.",
+      "en": "Johannes Gutenberg invented movable type printing around 1440.",
+      "es": "Johannes Gutenberg inventó la imprenta de tipos móviles alrededor de 1440.",
+      "de": "Johannes Gutenberg erfand den Buchdruck mit beweglichen Lettern um 1440."
+    },
+    "emoji": "📰"
+  },
+  {
+    "id": "cg_inventions_004",
+    "topCategory": "culture_generale",
+    "subCategory": "inventions",
+    "question": {
+      "fr": "En quelle décennie le World Wide Web a-t-il été inventé ?",
+      "en": "In which decade was the World Wide Web invented?",
+      "es": "¿En qué década se inventó la World Wide Web?",
+      "de": "In welchem Jahrzehnt wurde das World Wide Web erfunden?"
+    },
+    "choiceLeft": { "fr": "Années 1980", "en": "1980s", "es": "Años 1980", "de": "1980er" },
+    "choiceRight": { "fr": "Années 1990", "en": "1990s", "es": "Años 1990", "de": "1990er" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Tim Berners-Lee a inventé le Web en 1989 au CERN. Il a été rendu public en 1991.",
+      "en": "Tim Berners-Lee invented the Web in 1989 at CERN. It was made public in 1991.",
+      "es": "Tim Berners-Lee inventó la Web en 1989 en el CERN. Se hizo pública en 1991.",
+      "de": "Tim Berners-Lee erfand das Web 1989 am CERN. Es wurde 1991 öffentlich zugänglich."
+    },
+    "emoji": "🌐"
+  },
+  {
+    "id": "cg_inventions_005",
+    "topCategory": "culture_generale",
+    "subCategory": "inventions",
+    "question": {
+      "fr": "Qui a inventé la dynamite ?",
+      "en": "Who invented dynamite?",
+      "es": "¿Quién inventó la dinamita?",
+      "de": "Wer hat das Dynamit erfunden?"
+    },
+    "choiceLeft": { "fr": "Alfred Nobel", "en": "Alfred Nobel", "es": "Alfred Nobel", "de": "Alfred Nobel" },
+    "choiceRight": { "fr": "Robert Oppenheimer", "en": "Robert Oppenheimer", "es": "Robert Oppenheimer", "de": "Robert Oppenheimer" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Alfred Nobel a breveté la dynamite en 1867. Oppenheimer a dirigé le projet Manhattan (bombe atomique).",
+      "en": "Alfred Nobel patented dynamite in 1867. Oppenheimer led the Manhattan Project (atomic bomb).",
+      "es": "Alfred Nobel patentó la dinamita en 1867. Oppenheimer dirigió el Proyecto Manhattan (bomba atómica).",
+      "de": "Alfred Nobel patentierte Dynamit 1867. Oppenheimer leitete das Manhattan-Projekt (Atombombe)."
+    },
+    "emoji": "🧨"
+  },
+  {
+    "id": "cg_inventions_006",
+    "topCategory": "culture_generale",
+    "subCategory": "inventions",
+    "question": {
+      "fr": "Qui a réalisé le premier vol motorisé contrôlé ?",
+      "en": "Who achieved the first controlled powered flight?",
+      "es": "¿Quién realizó el primer vuelo motorizado controlado?",
+      "de": "Wer führte den ersten kontrollierten Motorflug durch?"
+    },
+    "choiceLeft": { "fr": "Santos-Dumont", "en": "Santos-Dumont", "es": "Santos-Dumont", "de": "Santos-Dumont" },
+    "choiceRight": { "fr": "Les frères Wright", "en": "The Wright brothers", "es": "Los hermanos Wright", "de": "Die Gebrüder Wright" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Les frères Wright ont volé à Kitty Hawk le 17 décembre 1903.",
+      "en": "The Wright brothers flew at Kitty Hawk on December 17, 1903.",
+      "es": "Los hermanos Wright volaron en Kitty Hawk el 17 de diciembre de 1903.",
+      "de": "Die Gebrüder Wright flogen am 17. Dezember 1903 in Kitty Hawk."
+    },
+    "emoji": "✈️"
+  },
+  {
+    "id": "cg_inventions_007",
+    "topCategory": "culture_generale",
+    "subCategory": "inventions",
+    "question": {
+      "fr": "Qui a découvert la pénicilline ?",
+      "en": "Who discovered penicillin?",
+      "es": "¿Quién descubrió la penicilina?",
+      "de": "Wer hat das Penicillin entdeckt?"
+    },
+    "choiceLeft": { "fr": "Louis Pasteur", "en": "Louis Pasteur", "es": "Louis Pasteur", "de": "Louis Pasteur" },
+    "choiceRight": { "fr": "Alexander Fleming", "en": "Alexander Fleming", "es": "Alexander Fleming", "de": "Alexander Fleming" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Alexander Fleming a découvert la pénicilline en 1928 par accident dans son laboratoire.",
+      "en": "Alexander Fleming discovered penicillin in 1928 by accident in his laboratory.",
+      "es": "Alexander Fleming descubrió la penicilina en 1928 por accidente en su laboratorio.",
+      "de": "Alexander Fleming entdeckte 1928 zufällig das Penicillin in seinem Labor."
+    },
+    "emoji": "💊"
+  },
+  {
+    "id": "cg_inventions_008",
+    "topCategory": "culture_generale",
+    "subCategory": "inventions",
+    "question": {
+      "fr": "Qui a inventé la machine à vapeur moderne ?",
+      "en": "Who invented the modern steam engine?",
+      "es": "¿Quién inventó la máquina de vapor moderna?",
+      "de": "Wer erfand die moderne Dampfmaschine?"
+    },
+    "choiceLeft": { "fr": "James Watt", "en": "James Watt", "es": "James Watt", "de": "James Watt" },
+    "choiceRight": { "fr": "George Stephenson", "en": "George Stephenson", "es": "George Stephenson", "de": "George Stephenson" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "James Watt a perfectionné la machine à vapeur dans les années 1760. Stephenson a construit des locomotives.",
+      "en": "James Watt improved the steam engine in the 1760s. Stephenson built locomotives.",
+      "es": "James Watt mejoró la máquina de vapor en la década de 1760. Stephenson construyó locomotoras.",
+      "de": "James Watt verbesserte die Dampfmaschine in den 1760er Jahren. Stephenson baute Lokomotiven."
+    },
+    "emoji": "🚂"
+  },
+  {
+    "id": "cg_inventions_009",
+    "topCategory": "culture_generale",
+    "subCategory": "inventions",
+    "question": {
+      "fr": "Qui a inventé le vaccin contre la rage ?",
+      "en": "Who invented the rabies vaccine?",
+      "es": "¿Quién inventó la vacuna contra la rabia?",
+      "de": "Wer hat den Tollwutimpfstoff erfunden?"
+    },
+    "choiceLeft": { "fr": "Edward Jenner", "en": "Edward Jenner", "es": "Edward Jenner", "de": "Edward Jenner" },
+    "choiceRight": { "fr": "Louis Pasteur", "en": "Louis Pasteur", "es": "Louis Pasteur", "de": "Louis Pasteur" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Louis Pasteur a développé le vaccin contre la rage en 1885. Jenner a inventé le vaccin contre la variole.",
+      "en": "Louis Pasteur developed the rabies vaccine in 1885. Jenner invented the smallpox vaccine.",
+      "es": "Louis Pasteur desarrolló la vacuna contra la rabia en 1885. Jenner inventó la vacuna contra la viruela.",
+      "de": "Louis Pasteur entwickelte 1885 den Tollwutimpfstoff. Jenner erfand den Pockenimpfstoff."
+    },
+    "emoji": "💉"
+  },
+  {
+    "id": "cg_inventions_010",
+    "topCategory": "culture_generale",
+    "subCategory": "inventions",
+    "question": {
+      "fr": "Qui a inventé le premier ordinateur programmable ?",
+      "en": "Who invented the first programmable computer?",
+      "es": "¿Quién inventó la primera computadora programable?",
+      "de": "Wer erfand den ersten programmierbaren Computer?"
+    },
+    "choiceLeft": { "fr": "Konrad Zuse", "en": "Konrad Zuse", "es": "Konrad Zuse", "de": "Konrad Zuse" },
+    "choiceRight": { "fr": "Alan Turing", "en": "Alan Turing", "es": "Alan Turing", "de": "Alan Turing" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable. Turing a conceptualisé la machine de Turing.",
+      "en": "Konrad Zuse built the Z3 in 1941, considered the first programmable computer. Turing conceptualized the Turing machine.",
+      "es": "Konrad Zuse construyó el Z3 en 1941, considerado la primera computadora programable. Turing conceptualizó la máquina de Turing.",
+      "de": "Konrad Zuse baute 1941 den Z3, der als erster programmierbarer Computer gilt. Turing konzipierte die Turingmaschine."
+    },
+    "emoji": "🖥️"
+  },
+  {
+    "id": "cg_geography_001",
+    "topCategory": "culture_generale",
+    "subCategory": "geography",
+    "question": {
+      "fr": "Quel est le plus long fleuve du monde ?",
+      "en": "What is the longest river in the world?",
+      "es": "¿Cuál es el río más largo del mundo?",
+      "de": "Was ist der längste Fluss der Welt?"
+    },
+    "choiceLeft": { "fr": "Le Nil", "en": "The Nile", "es": "El Nilo", "de": "Der Nil" },
+    "choiceRight": { "fr": "L'Amazone", "en": "The Amazon", "es": "El Amazonas", "de": "Der Amazonas" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Le Nil mesure environ 6 650 km, ce qui en fait le plus long fleuve du monde.",
+      "en": "The Nile is about 6,650 km long, making it the longest river in the world.",
+      "es": "El Nilo mide unos 6.650 km, lo que lo convierte en el río más largo del mundo.",
+      "de": "Der Nil ist etwa 6.650 km lang und damit der längste Fluss der Welt."
+    },
+    "emoji": "🌊"
+  },
+  {
+    "id": "cg_geography_002",
+    "topCategory": "culture_generale",
+    "subCategory": "geography",
+    "question": {
+      "fr": "Quel est le plus petit pays du monde ?",
+      "en": "What is the smallest country in the world?",
+      "es": "¿Cuál es el país más pequeño del mundo?",
+      "de": "Was ist das kleinste Land der Welt?"
+    },
+    "choiceLeft": { "fr": "Monaco", "en": "Monaco", "es": "Mónaco", "de": "Monaco" },
+    "choiceRight": { "fr": "Vatican", "en": "Vatican City", "es": "Ciudad del Vaticano", "de": "Vatikanstadt" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le Vatican est le plus petit État du monde avec 0,44 km². Monaco est le deuxième (2,02 km²).",
+      "en": "Vatican City is the smallest country at 0.44 km². Monaco is second (2.02 km²).",
+      "es": "La Ciudad del Vaticano es el país más pequeño con 0,44 km². Mónaco es el segundo (2,02 km²).",
+      "de": "Die Vatikanstadt ist mit 0,44 km² das kleinste Land. Monaco ist das zweitkleinste (2,02 km²)."
+    },
+    "emoji": "🗺️"
+  },
+  {
+    "id": "cg_geography_003",
+    "topCategory": "culture_generale",
+    "subCategory": "geography",
+    "question": {
+      "fr": "Quel est le plus haut sommet du monde ?",
+      "en": "What is the highest mountain in the world?",
+      "es": "¿Cuál es la montaña más alta del mundo?",
+      "de": "Was ist der höchste Berg der Welt?"
+    },
+    "choiceLeft": { "fr": "K2", "en": "K2", "es": "K2", "de": "K2" },
+    "choiceRight": { "fr": "Everest", "en": "Everest", "es": "Everest", "de": "Everest" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "L'Everest culmine à 8 849 m. Le K2, deuxième plus haut, atteint 8 611 m.",
+      "en": "Everest stands at 8,849 m. K2, the second highest, reaches 8,611 m.",
+      "es": "El Everest alcanza los 8.849 m. El K2, el segundo más alto, llega a los 8.611 m.",
+      "de": "Der Everest ist 8.849 m hoch. Der K2, der zweithöchste, erreicht 8.611 m."
+    },
+    "emoji": "🏔️"
+  },
+  {
+    "id": "cg_geography_004",
+    "topCategory": "culture_generale",
+    "subCategory": "geography",
+    "question": {
+      "fr": "Quel désert est le plus grand du monde ?",
+      "en": "Which is the largest desert in the world?",
+      "es": "¿Cuál es el desierto más grande del mundo?",
+      "de": "Welche ist die größte Wüste der Welt?"
+    },
+    "choiceLeft": { "fr": "Antarctique", "en": "Antarctic", "es": "Antártico", "de": "Antarktis" },
+    "choiceRight": { "fr": "Sahara", "en": "Sahara", "es": "Sahara", "de": "Sahara" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "L'Antarctique est le plus grand désert (14 M km²). Le Sahara est le plus grand désert chaud (9 M km²).",
+      "en": "Antarctica is the largest desert (14M km²). The Sahara is the largest hot desert (9M km²).",
+      "es": "La Antártida es el desierto más grande (14 M km²). El Sahara es el mayor desierto cálido (9 M km²).",
+      "de": "Die Antarktis ist die größte Wüste (14 Mio. km²). Die Sahara ist die größte heiße Wüste (9 Mio. km²)."
+    },
+    "emoji": "🏜️"
+  },
+  {
+    "id": "cg_geography_005",
+    "topCategory": "culture_generale",
+    "subCategory": "geography",
+    "question": {
+      "fr": "Quelle est la capitale de l'Australie ?",
+      "en": "What is the capital of Australia?",
+      "es": "¿Cuál es la capital de Australia?",
+      "de": "Was ist die Hauptstadt von Australien?"
+    },
+    "choiceLeft": { "fr": "Sydney", "en": "Sydney", "es": "Sídney", "de": "Sydney" },
+    "choiceRight": { "fr": "Canberra", "en": "Canberra", "es": "Canberra", "de": "Canberra" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Canberra est la capitale de l'Australie depuis 1913. Sydney est la plus grande ville, mais pas la capitale.",
+      "en": "Canberra has been the capital of Australia since 1913. Sydney is the largest city but not the capital.",
+      "es": "Canberra es la capital de Australia desde 1913. Sídney es la ciudad más grande, pero no la capital.",
+      "de": "Canberra ist seit 1913 die Hauptstadt Australiens. Sydney ist die größte Stadt, aber nicht die Hauptstadt."
+    },
+    "emoji": "🦘"
+  },
+  {
+    "id": "cg_geography_006",
+    "topCategory": "culture_generale",
+    "subCategory": "geography",
+    "question": {
+      "fr": "Quel océan est le plus grand ?",
+      "en": "Which ocean is the largest?",
+      "es": "¿Cuál es el océano más grande?",
+      "de": "Welcher Ozean ist der größte?"
+    },
+    "choiceLeft": { "fr": "Pacifique", "en": "Pacific", "es": "Pacífico", "de": "Pazifik" },
+    "choiceRight": { "fr": "Atlantique", "en": "Atlantic", "es": "Atlántico", "de": "Atlantik" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "L'océan Pacifique couvre environ 165 millions de km², soit plus que toutes les terres émergées réunies.",
+      "en": "The Pacific Ocean covers about 165 million km², more than all the land on Earth combined.",
+      "es": "El océano Pacífico cubre unos 165 millones de km², más que toda la superficie terrestre combinada.",
+      "de": "Der Pazifische Ozean bedeckt etwa 165 Millionen km², mehr als alle Landmassen der Erde zusammen."
+    },
+    "emoji": "🌏"
+  },
+  {
+    "id": "cg_geography_007",
+    "topCategory": "culture_generale",
+    "subCategory": "geography",
+    "question": {
+      "fr": "Quel pays a le plus de fuseaux horaires ?",
+      "en": "Which country has the most time zones?",
+      "es": "¿Qué país tiene más husos horarios?",
+      "de": "Welches Land hat die meisten Zeitzonen?"
+    },
+    "choiceLeft": { "fr": "Russie", "en": "Russia", "es": "Rusia", "de": "Russland" },
+    "choiceRight": { "fr": "France", "en": "France", "es": "Francia", "de": "Frankreich" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "La France a 12 fuseaux horaires (grâce à ses territoires d'outre-mer). La Russie en a 11.",
+      "en": "France has 12 time zones (thanks to its overseas territories). Russia has 11.",
+      "es": "Francia tiene 12 husos horarios (gracias a sus territorios de ultramar). Rusia tiene 11.",
+      "de": "Frankreich hat 12 Zeitzonen (dank seiner Überseegebiete). Russland hat 11."
+    },
+    "emoji": "🕐"
+  },
+  {
+    "id": "cg_geography_008",
+    "topCategory": "culture_generale",
+    "subCategory": "geography",
+    "question": {
+      "fr": "Sur quel continent se trouve le Kilimandjaro ?",
+      "en": "On which continent is Mount Kilimanjaro?",
+      "es": "¿En qué continente se encuentra el Kilimanjaro?",
+      "de": "Auf welchem Kontinent liegt der Kilimandscharo?"
+    },
+    "choiceLeft": { "fr": "Afrique", "en": "Africa", "es": "África", "de": "Afrika" },
+    "choiceRight": { "fr": "Asie", "en": "Asia", "es": "Asia", "de": "Asien" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Le Kilimandjaro (5 895 m) se trouve en Tanzanie, en Afrique de l'Est.",
+      "en": "Kilimanjaro (5,895 m) is located in Tanzania, East Africa.",
+      "es": "El Kilimanjaro (5.895 m) se encuentra en Tanzania, en el este de África.",
+      "de": "Der Kilimandscharo (5.895 m) liegt in Tansania, Ostafrika."
+    },
+    "emoji": "🌍"
+  },
+  {
+    "id": "cg_geography_009",
+    "topCategory": "culture_generale",
+    "subCategory": "geography",
+    "question": {
+      "fr": "Quel est le pays le plus peuplé du monde ?",
+      "en": "What is the most populous country in the world?",
+      "es": "¿Cuál es el país más poblado del mundo?",
+      "de": "Was ist das bevölkerungsreichste Land der Welt?"
+    },
+    "choiceLeft": { "fr": "Chine", "en": "China", "es": "China", "de": "China" },
+    "choiceRight": { "fr": "Inde", "en": "India", "es": "India", "de": "Indien" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "L'Inde a dépassé la Chine en 2023 pour devenir le pays le plus peuplé, avec plus de 1,4 milliard d'habitants.",
+      "en": "India surpassed China in 2023 to become the most populous country, with over 1.4 billion people.",
+      "es": "India superó a China en 2023 como el país más poblado, con más de 1.400 millones de habitantes.",
+      "de": "Indien hat China 2023 als bevölkerungsreichstes Land überholt, mit über 1,4 Milliarden Einwohnern."
+    },
+    "emoji": "👥"
+  },
+  {
+    "id": "cg_geography_010",
+    "topCategory": "culture_generale",
+    "subCategory": "geography",
+    "question": {
+      "fr": "Dans quel pays se trouve la ville de Tombouctou ?",
+      "en": "In which country is the city of Timbuktu?",
+      "es": "¿En qué país se encuentra la ciudad de Tombuctú?",
+      "de": "In welchem Land liegt die Stadt Timbuktu?"
+    },
+    "choiceLeft": { "fr": "Niger", "en": "Niger", "es": "Níger", "de": "Niger" },
+    "choiceRight": { "fr": "Mali", "en": "Mali", "es": "Malí", "de": "Mali" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Tombouctou est une ville historique du Mali, autrefois centre intellectuel et commercial majeur.",
+      "en": "Timbuktu is a historic city in Mali, once a major intellectual and trade center.",
+      "es": "Tombuctú es una ciudad histórica de Malí, que fue un importante centro intelectual y comercial.",
+      "de": "Timbuktu ist eine historische Stadt in Mali, einst ein bedeutendes intellektuelles und Handelszentrum."
+    },
+    "emoji": "🏛️"
+  },
+  {
+    "id": "cg_psychology_001",
+    "topCategory": "culture_generale",
+    "subCategory": "psychology",
+    "question": {
+      "fr": "Qui est le fondateur de la psychanalyse ?",
+      "en": "Who is the founder of psychoanalysis?",
+      "es": "¿Quién es el fundador del psicoanálisis?",
+      "de": "Wer ist der Begründer der Psychoanalyse?"
+    },
+    "choiceLeft": { "fr": "Carl Jung", "en": "Carl Jung", "es": "Carl Jung", "de": "Carl Jung" },
+    "choiceRight": { "fr": "Sigmund Freud", "en": "Sigmund Freud", "es": "Sigmund Freud", "de": "Sigmund Freud" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Sigmund Freud a fondé la psychanalyse à la fin du XIXe siècle. Jung a développé la psychologie analytique.",
+      "en": "Sigmund Freud founded psychoanalysis in the late 19th century. Jung developed analytical psychology.",
+      "es": "Sigmund Freud fundó el psicoanálisis a finales del siglo XIX. Jung desarrolló la psicología analítica.",
+      "de": "Sigmund Freud begründete die Psychoanalyse Ende des 19. Jahrhunderts. Jung entwickelte die analytische Psychologie."
+    },
+    "emoji": "🧠"
+  },
+  {
+    "id": "cg_psychology_002",
+    "topCategory": "culture_generale",
+    "subCategory": "psychology",
+    "question": {
+      "fr": "Qu'est-ce que l'effet Dunning-Kruger ?",
+      "en": "What is the Dunning-Kruger effect?",
+      "es": "¿Qué es el efecto Dunning-Kruger?",
+      "de": "Was ist der Dunning-Kruger-Effekt?"
+    },
+    "choiceLeft": { "fr": "Surestimer ses compétences", "en": "Overestimating one's skills", "es": "Sobreestimar habilidades", "de": "Eigene Fähigkeiten überschätzen" },
+    "choiceRight": { "fr": "Sous-estimer ses compétences", "en": "Underestimating one's skills", "es": "Subestimar habilidades", "de": "Eigene Fähigkeiten unterschätzen" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "L'effet Dunning-Kruger décrit la tendance des personnes peu compétentes à surestimer leurs capacités.",
+      "en": "The Dunning-Kruger effect describes the tendency of unskilled people to overestimate their abilities.",
+      "es": "El efecto Dunning-Kruger describe la tendencia de las personas poco competentes a sobreestimar sus capacidades.",
+      "de": "Der Dunning-Kruger-Effekt beschreibt die Tendenz wenig kompetenter Menschen, ihre Fähigkeiten zu überschätzen."
+    },
+    "emoji": "🤔"
+  },
+  {
+    "id": "cg_psychology_003",
+    "topCategory": "culture_generale",
+    "subCategory": "psychology",
+    "question": {
+      "fr": "Combien de stades a la pyramide des besoins de Maslow ?",
+      "en": "How many levels does Maslow's hierarchy of needs have?",
+      "es": "¿Cuántos niveles tiene la pirámide de necesidades de Maslow?",
+      "de": "Wie viele Stufen hat die Bedürfnispyramide von Maslow?"
+    },
+    "choiceLeft": { "fr": "5", "en": "5", "es": "5", "de": "5" },
+    "choiceRight": { "fr": "7", "en": "7", "es": "7", "de": "7" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "La pyramide de Maslow compte 5 niveaux : physiologie, sécurité, appartenance, estime, accomplissement.",
+      "en": "Maslow's hierarchy has 5 levels: physiological, safety, belonging, esteem, self-actualization.",
+      "es": "La pirámide de Maslow tiene 5 niveles: fisiología, seguridad, pertenencia, estima, autorrealización.",
+      "de": "Maslows Pyramide hat 5 Stufen: Physiologie, Sicherheit, Zugehörigkeit, Wertschätzung, Selbstverwirklichung."
+    },
+    "emoji": "📐"
+  },
+  {
+    "id": "cg_psychology_004",
+    "topCategory": "culture_generale",
+    "subCategory": "psychology",
+    "question": {
+      "fr": "Quel psychologue est connu pour ses expériences sur le conditionnement des chiens ?",
+      "en": "Which psychologist is known for his conditioning experiments with dogs?",
+      "es": "¿Qué psicólogo es conocido por sus experimentos de condicionamiento con perros?",
+      "de": "Welcher Psychologe ist für seine Konditionierungsexperimente mit Hunden bekannt?"
+    },
+    "choiceLeft": { "fr": "Ivan Pavlov", "en": "Ivan Pavlov", "es": "Iván Pávlov", "de": "Iwan Pawlow" },
+    "choiceRight": { "fr": "B.F. Skinner", "en": "B.F. Skinner", "es": "B.F. Skinner", "de": "B.F. Skinner" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Pavlov a découvert le conditionnement classique en étudiant la salivation des chiens. Skinner a étudié le conditionnement opérant.",
+      "en": "Pavlov discovered classical conditioning by studying dogs' salivation. Skinner studied operant conditioning.",
+      "es": "Pávlov descubrió el condicionamiento clásico estudiando la salivación de los perros. Skinner estudió el condicionamiento operante.",
+      "de": "Pawlow entdeckte die klassische Konditionierung durch Studien zur Speichelsekretion von Hunden. Skinner erforschte die operante Konditionierung."
+    },
+    "emoji": "🐕"
+  },
+  {
+    "id": "cg_psychology_005",
+    "topCategory": "culture_generale",
+    "subCategory": "psychology",
+    "question": {
+      "fr": "Qu'est-ce que le biais de confirmation ?",
+      "en": "What is confirmation bias?",
+      "es": "¿Qué es el sesgo de confirmación?",
+      "de": "Was ist der Bestätigungsfehler?"
+    },
+    "choiceLeft": { "fr": "Rejeter toute opinion", "en": "Rejecting all opinions", "es": "Rechazar toda opinión", "de": "Alle Meinungen ablehnen" },
+    "choiceRight": { "fr": "Favoriser ce qu'on croit", "en": "Favoring what we believe", "es": "Favorecer lo que creemos", "de": "Bevorzugen, was man glaubt" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le biais de confirmation est la tendance à rechercher et favoriser les informations qui confirment nos croyances.",
+      "en": "Confirmation bias is the tendency to seek and favor information that confirms our beliefs.",
+      "es": "El sesgo de confirmación es la tendencia a buscar y favorecer información que confirme nuestras creencias.",
+      "de": "Der Bestätigungsfehler ist die Tendenz, Informationen zu suchen und zu bevorzugen, die unsere Überzeugungen bestätigen."
+    },
+    "emoji": "🔍"
+  },
+  {
+    "id": "cg_psychology_006",
+    "topCategory": "culture_generale",
+    "subCategory": "psychology",
+    "question": {
+      "fr": "Quel est le QI moyen dans la population générale ?",
+      "en": "What is the average IQ in the general population?",
+      "es": "¿Cuál es el coeficiente intelectual medio en la población general?",
+      "de": "Was ist der durchschnittliche IQ in der Gesamtbevölkerung?"
+    },
+    "choiceLeft": { "fr": "100", "en": "100", "es": "100", "de": "100" },
+    "choiceRight": { "fr": "120", "en": "120", "es": "120", "de": "120" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Par définition, le QI moyen est fixé à 100 avec un écart-type de 15.",
+      "en": "By definition, the average IQ is set at 100 with a standard deviation of 15.",
+      "es": "Por definición, el CI medio se fija en 100 con una desviación estándar de 15.",
+      "de": "Per Definition ist der durchschnittliche IQ auf 100 festgelegt, mit einer Standardabweichung von 15."
+    },
+    "emoji": "📊"
+  },
+  {
+    "id": "cg_psychology_007",
+    "topCategory": "culture_generale",
+    "subCategory": "psychology",
+    "question": {
+      "fr": "Qu'est-ce que l'effet placebo ?",
+      "en": "What is the placebo effect?",
+      "es": "¿Qué es el efecto placebo?",
+      "de": "Was ist der Placebo-Effekt?"
+    },
+    "choiceLeft": { "fr": "Guérison par médicament", "en": "Healing by medication", "es": "Curación por medicamento", "de": "Heilung durch Medikament" },
+    "choiceRight": { "fr": "Guérison par croyance", "en": "Healing by belief", "es": "Curación por creencia", "de": "Heilung durch Glaube" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "L'effet placebo est une amélioration de la santé due à la croyance du patient en l'efficacité d'un traitement inactif.",
+      "en": "The placebo effect is a health improvement caused by the patient's belief in the effectiveness of an inactive treatment.",
+      "es": "El efecto placebo es una mejora de la salud debida a la creencia del paciente en la eficacia de un tratamiento inactivo.",
+      "de": "Der Placebo-Effekt ist eine Gesundheitsverbesserung durch den Glauben des Patienten an die Wirksamkeit einer inaktiven Behandlung."
+    },
+    "emoji": "💊"
+  },
+  {
+    "id": "cg_psychology_008",
+    "topCategory": "culture_generale",
+    "subCategory": "psychology",
+    "question": {
+      "fr": "Combien de types de mémoire à long terme distingue-t-on principalement ?",
+      "en": "How many main types of long-term memory are there?",
+      "es": "¿Cuántos tipos principales de memoria a largo plazo se distinguen?",
+      "de": "Wie viele Haupttypen des Langzeitgedächtnisses werden unterschieden?"
+    },
+    "choiceLeft": { "fr": "2", "en": "2", "es": "2", "de": "2" },
+    "choiceRight": { "fr": "4", "en": "4", "es": "4", "de": "4" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "On distingue deux types principaux : la mémoire déclarative (explicite) et la mémoire procédurale (implicite).",
+      "en": "There are two main types: declarative (explicit) memory and procedural (implicit) memory.",
+      "es": "Se distinguen dos tipos principales: memoria declarativa (explícita) y memoria procedimental (implícita).",
+      "de": "Man unterscheidet zwei Haupttypen: deklaratives (explizites) und prozedurales (implizites) Gedächtnis."
+    },
+    "emoji": "🧠"
+  },
+  {
+    "id": "cg_psychology_009",
+    "topCategory": "culture_generale",
+    "subCategory": "psychology",
+    "question": {
+      "fr": "Qu'est-ce que l'effet de halo en psychologie ?",
+      "en": "What is the halo effect in psychology?",
+      "es": "¿Qué es el efecto halo en psicología?",
+      "de": "Was ist der Halo-Effekt in der Psychologie?"
+    },
+    "choiceLeft": { "fr": "Un trait influence le jugement global", "en": "One trait influences overall judgment", "es": "Un rasgo influye en el juicio global", "de": "Ein Merkmal beeinflusst das Gesamturteil" },
+    "choiceRight": { "fr": "On oublie les échecs", "en": "We forget failures", "es": "Olvidamos los fracasos", "de": "Man vergisst Misserfolge" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "L'effet de halo est un biais où une qualité positive (ex. beauté) influence positivement le jugement global d'une personne.",
+      "en": "The halo effect is a bias where one positive quality (e.g., beauty) positively influences the overall judgment of a person.",
+      "es": "El efecto halo es un sesgo en el que una cualidad positiva (ej. belleza) influye positivamente en el juicio global de una persona.",
+      "de": "Der Halo-Effekt ist eine Verzerrung, bei der eine positive Eigenschaft (z.B. Schönheit) das Gesamturteil über eine Person positiv beeinflusst."
+    },
+    "emoji": "😇"
+  },
+  {
+    "id": "cg_psychology_010",
+    "topCategory": "culture_generale",
+    "subCategory": "psychology",
+    "question": {
+      "fr": "Quelle est la phase de sommeil où l'on rêve le plus ?",
+      "en": "During which sleep phase do we dream the most?",
+      "es": "¿En qué fase del sueño soñamos más?",
+      "de": "In welcher Schlafphase träumen wir am meisten?"
+    },
+    "choiceLeft": { "fr": "Sommeil profond", "en": "Deep sleep", "es": "Sueño profundo", "de": "Tiefschlaf" },
+    "choiceRight": { "fr": "Sommeil paradoxal (REM)", "en": "REM sleep", "es": "Sueño REM", "de": "REM-Schlaf" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le sommeil paradoxal (REM) est la phase où les rêves les plus vifs se produisent, avec une activité cérébrale intense.",
+      "en": "REM sleep is the phase where the most vivid dreams occur, with intense brain activity.",
+      "es": "El sueño REM es la fase donde ocurren los sueños más vívidos, con actividad cerebral intensa.",
+      "de": "Der REM-Schlaf ist die Phase, in der die lebhaftesten Träume auftreten, mit intensiver Gehirnaktivität."
+    },
+    "emoji": "💤"
+  },
+  {
+    "id": "cg_quotes_001",
+    "topCategory": "culture_generale",
+    "subCategory": "quotes",
+    "question": {
+      "fr": "Qui a dit « Je pense, donc je suis » ?",
+      "en": "Who said 'I think, therefore I am'?",
+      "es": "¿Quién dijo «Pienso, luego existo»?",
+      "de": "Wer sagte «Ich denke, also bin ich»?"
+    },
+    "choiceLeft": { "fr": "Descartes", "en": "Descartes", "es": "Descartes", "de": "Descartes" },
+    "choiceRight": { "fr": "Voltaire", "en": "Voltaire", "es": "Voltaire", "de": "Voltaire" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "René Descartes a écrit « Cogito, ergo sum » dans le Discours de la méthode (1637).",
+      "en": "René Descartes wrote 'Cogito, ergo sum' in Discourse on the Method (1637).",
+      "es": "René Descartes escribió «Cogito, ergo sum» en el Discurso del método (1637).",
+      "de": "René Descartes schrieb «Cogito, ergo sum» in der Abhandlung über die Methode (1637)."
+    },
+    "emoji": "💭"
+  },
+  {
+    "id": "cg_quotes_002",
+    "topCategory": "culture_generale",
+    "subCategory": "quotes",
+    "question": {
+      "fr": "Qui a dit « L'État, c'est moi » ?",
+      "en": "Who said 'I am the State'?",
+      "es": "¿Quién dijo «El Estado soy yo»?",
+      "de": "Wer sagte «Der Staat bin ich»?"
+    },
+    "choiceLeft": { "fr": "Napoléon", "en": "Napoleon", "es": "Napoleón", "de": "Napoleon" },
+    "choiceRight": { "fr": "Louis XIV", "en": "Louis XIV", "es": "Luis XIV", "de": "Ludwig XIV." },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Cette phrase est attribuée à Louis XIV, le Roi-Soleil, symbole de la monarchie absolue.",
+      "en": "This quote is attributed to Louis XIV, the Sun King, symbol of absolute monarchy.",
+      "es": "Esta frase se atribuye a Luis XIV, el Rey Sol, símbolo de la monarquía absoluta.",
+      "de": "Dieses Zitat wird Ludwig XIV., dem Sonnenkönig, Symbol der absoluten Monarchie, zugeschrieben."
+    },
+    "emoji": "👑"
+  },
+  {
+    "id": "cg_quotes_003",
+    "topCategory": "culture_generale",
+    "subCategory": "quotes",
+    "question": {
+      "fr": "Qui a écrit « Être ou ne pas être, telle est la question » ?",
+      "en": "Who wrote 'To be, or not to be, that is the question'?",
+      "es": "¿Quién escribió «Ser o no ser, esa es la cuestión»?",
+      "de": "Wer schrieb «Sein oder Nichtsein, das ist hier die Frage»?"
+    },
+    "choiceLeft": { "fr": "Shakespeare", "en": "Shakespeare", "es": "Shakespeare", "de": "Shakespeare" },
+    "choiceRight": { "fr": "Molière", "en": "Molière", "es": "Molière", "de": "Molière" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Cette réplique célèbre est prononcée par Hamlet dans la pièce de William Shakespeare (vers 1600).",
+      "en": "This famous line is spoken by Hamlet in William Shakespeare's play (circa 1600).",
+      "es": "Esta famosa frase es pronunciada por Hamlet en la obra de William Shakespeare (hacia 1600).",
+      "de": "Dieser berühmte Satz wird von Hamlet in William Shakespeares Stück gesprochen (um 1600)."
+    },
+    "emoji": "🎭"
+  },
+  {
+    "id": "cg_quotes_004",
+    "topCategory": "culture_generale",
+    "subCategory": "quotes",
+    "question": {
+      "fr": "Qui a dit « I have a dream » ?",
+      "en": "Who said 'I have a dream'?",
+      "es": "¿Quién dijo «I have a dream»?",
+      "de": "Wer sagte «I have a dream»?"
+    },
+    "choiceLeft": { "fr": "Malcolm X", "en": "Malcolm X", "es": "Malcolm X", "de": "Malcolm X" },
+    "choiceRight": { "fr": "Martin Luther King", "en": "Martin Luther King", "es": "Martin Luther King", "de": "Martin Luther King" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Martin Luther King Jr. a prononcé ce discours le 28 août 1963 à Washington.",
+      "en": "Martin Luther King Jr. delivered this speech on August 28, 1963, in Washington.",
+      "es": "Martin Luther King Jr. pronunció este discurso el 28 de agosto de 1963 en Washington.",
+      "de": "Martin Luther King Jr. hielt diese Rede am 28. August 1963 in Washington."
+    },
+    "emoji": "✊"
+  },
+  {
+    "id": "cg_quotes_005",
+    "topCategory": "culture_generale",
+    "subCategory": "quotes",
+    "question": {
+      "fr": "Qui a dit « Eurêka ! » après une découverte dans son bain ?",
+      "en": "Who said 'Eureka!' after a discovery in his bath?",
+      "es": "¿Quién dijo «¡Eureka!» tras un descubrimiento en su baño?",
+      "de": "Wer rief «Heureka!» nach einer Entdeckung in der Badewanne?"
+    },
+    "choiceLeft": { "fr": "Archimède", "en": "Archimedes", "es": "Arquímedes", "de": "Archimedes" },
+    "choiceRight": { "fr": "Pythagore", "en": "Pythagoras", "es": "Pitágoras", "de": "Pythagoras" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Archimède aurait crié « Eurêka ! » en découvrant le principe de la poussée d'Archimède dans son bain.",
+      "en": "Archimedes reportedly shouted 'Eureka!' upon discovering the principle of buoyancy in his bath.",
+      "es": "Arquímedes habría gritado «¡Eureka!» al descubrir el principio del empuje en su baño.",
+      "de": "Archimedes soll «Heureka!» gerufen haben, als er das Auftriebsprinzip in seiner Badewanne entdeckte."
+    },
+    "emoji": "🛁"
+  },
+  {
+    "id": "cg_quotes_006",
+    "topCategory": "culture_generale",
+    "subCategory": "quotes",
+    "question": {
+      "fr": "Qui a dit « La liberté des uns s'arrête là où commence celle des autres » ?",
+      "en": "Who is credited with 'One's freedom ends where another's begins'?",
+      "es": "¿A quién se atribuye «La libertad de uno termina donde empieza la del otro»?",
+      "de": "Wem wird «Die Freiheit des Einzelnen endet dort, wo die Freiheit des Anderen beginnt» zugeschrieben?"
+    },
+    "choiceLeft": { "fr": "Rousseau", "en": "Rousseau", "es": "Rousseau", "de": "Rousseau" },
+    "choiceRight": { "fr": "John Stuart Mill", "en": "John Stuart Mill", "es": "John Stuart Mill", "de": "John Stuart Mill" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Ce principe est associé à John Stuart Mill dans De la liberté (1859), bien que souvent attribué à d'autres.",
+      "en": "This principle is associated with John Stuart Mill in On Liberty (1859), though often attributed to others.",
+      "es": "Este principio se asocia con John Stuart Mill en Sobre la libertad (1859), aunque se atribuye a menudo a otros.",
+      "de": "Dieses Prinzip wird John Stuart Mill in Über die Freiheit (1859) zugeschrieben, obwohl es oft anderen zugeordnet wird."
+    },
+    "emoji": "⚖️"
+  },
+  {
+    "id": "cg_quotes_007",
+    "topCategory": "culture_generale",
+    "subCategory": "quotes",
+    "question": {
+      "fr": "Qui a dit « Veni, vidi, vici » (Je suis venu, j'ai vu, j'ai vaincu) ?",
+      "en": "Who said 'Veni, vidi, vici' (I came, I saw, I conquered)?",
+      "es": "¿Quién dijo «Veni, vidi, vici» (Vine, vi, vencí)?",
+      "de": "Wer sagte «Veni, vidi, vici» (Ich kam, sah und siegte)?"
+    },
+    "choiceLeft": { "fr": "Jules César", "en": "Julius Caesar", "es": "Julio César", "de": "Julius Cäsar" },
+    "choiceRight": { "fr": "Alexandre le Grand", "en": "Alexander the Great", "es": "Alejandro Magno", "de": "Alexander der Große" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Jules César a écrit cette phrase en 47 av. J.-C. après sa victoire rapide à la bataille de Zéla.",
+      "en": "Julius Caesar wrote this phrase in 47 BC after his swift victory at the Battle of Zela.",
+      "es": "Julio César escribió esta frase en el 47 a.C. tras su rápida victoria en la batalla de Zela.",
+      "de": "Julius Cäsar schrieb diesen Satz 47 v. Chr. nach seinem schnellen Sieg in der Schlacht von Zela."
+    },
+    "emoji": "🏛️"
+  },
+  {
+    "id": "cg_quotes_008",
+    "topCategory": "culture_generale",
+    "subCategory": "quotes",
+    "question": {
+      "fr": "Qui a dit « Le savoir est la seule matière qui s'accroît quand on la partage » ?",
+      "en": "Who said 'Knowledge is the only thing that grows when shared'?",
+      "es": "¿Quién dijo «El saber es lo único que crece cuando se comparte»?",
+      "de": "Wer sagte «Wissen ist das Einzige, das wächst, wenn man es teilt»?"
+    },
+    "choiceLeft": { "fr": "Platon", "en": "Plato", "es": "Platón", "de": "Platon" },
+    "choiceRight": { "fr": "Socrate", "en": "Socrates", "es": "Sócrates", "de": "Sokrates" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Cette maxime est attribuée à Socrate, qui enseignait par le dialogue et le partage des idées.",
+      "en": "This maxim is attributed to Socrates, who taught through dialogue and the sharing of ideas.",
+      "es": "Esta máxima se atribuye a Sócrates, quien enseñaba mediante el diálogo y el intercambio de ideas.",
+      "de": "Dieses Sprichwort wird Sokrates zugeschrieben, der durch Dialog und Ideenaustausch lehrte."
+    },
+    "emoji": "📖"
+  },
+  {
+    "id": "cg_quotes_009",
+    "topCategory": "culture_generale",
+    "subCategory": "quotes",
+    "question": {
+      "fr": "Qui a dit « Un petit pas pour l'homme, un bond de géant pour l'humanité » ?",
+      "en": "Who said 'One small step for man, one giant leap for mankind'?",
+      "es": "¿Quién dijo «Un pequeño paso para el hombre, un gran salto para la humanidad»?",
+      "de": "Wer sagte «Ein kleiner Schritt für einen Menschen, ein großer Sprung für die Menschheit»?"
+    },
+    "choiceLeft": { "fr": "Neil Armstrong", "en": "Neil Armstrong", "es": "Neil Armstrong", "de": "Neil Armstrong" },
+    "choiceRight": { "fr": "Buzz Aldrin", "en": "Buzz Aldrin", "es": "Buzz Aldrin", "de": "Buzz Aldrin" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Neil Armstrong a prononcé cette phrase en posant le pied sur la Lune le 20 juillet 1969.",
+      "en": "Neil Armstrong spoke these words upon stepping on the Moon on July 20, 1969.",
+      "es": "Neil Armstrong pronunció esta frase al pisar la Luna el 20 de julio de 1969.",
+      "de": "Neil Armstrong sprach diese Worte, als er am 20. Juli 1969 den Mond betrat."
+    },
+    "emoji": "🌙"
+  },
+  {
+    "id": "cg_quotes_010",
+    "topCategory": "culture_generale",
+    "subCategory": "quotes",
+    "question": {
+      "fr": "Qui a dit « L'imagination est plus importante que le savoir » ?",
+      "en": "Who said 'Imagination is more important than knowledge'?",
+      "es": "¿Quién dijo «La imaginación es más importante que el conocimiento»?",
+      "de": "Wer sagte «Fantasie ist wichtiger als Wissen»?"
+    },
+    "choiceLeft": { "fr": "Isaac Newton", "en": "Isaac Newton", "es": "Isaac Newton", "de": "Isaac Newton" },
+    "choiceRight": { "fr": "Albert Einstein", "en": "Albert Einstein", "es": "Albert Einstein", "de": "Albert Einstein" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Albert Einstein a dit cette phrase dans une interview de 1929 avec le Saturday Evening Post.",
+      "en": "Albert Einstein said this in a 1929 interview with the Saturday Evening Post.",
+      "es": "Albert Einstein dijo esto en una entrevista de 1929 con el Saturday Evening Post.",
+      "de": "Albert Einstein sagte dies in einem Interview von 1929 mit der Saturday Evening Post."
+    },
+    "emoji": "🧪"
+  },
+  {
+    "id": "cg_mathematics_001",
+    "topCategory": "culture_generale",
+    "subCategory": "mathematics",
+    "question": {
+      "fr": "Quelle est la valeur approchée de Pi ?",
+      "en": "What is the approximate value of Pi?",
+      "es": "¿Cuál es el valor aproximado de Pi?",
+      "de": "Was ist der Näherungswert von Pi?"
+    },
+    "choiceLeft": { "fr": "3,14", "en": "3.14", "es": "3,14", "de": "3,14" },
+    "choiceRight": { "fr": "2,72", "en": "2.72", "es": "2,72", "de": "2,72" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Pi vaut environ 3,14159. Le nombre 2,72 est proche de e (constante d'Euler).",
+      "en": "Pi is approximately 3.14159. The number 2.72 is close to e (Euler's number).",
+      "es": "Pi vale aproximadamente 3,14159. El número 2,72 se acerca a e (número de Euler).",
+      "de": "Pi beträgt ungefähr 3,14159. Die Zahl 2,72 liegt nahe bei e (Eulersche Zahl)."
+    },
+    "emoji": "🔢"
+  },
+  {
+    "id": "cg_mathematics_002",
+    "topCategory": "culture_generale",
+    "subCategory": "mathematics",
+    "question": {
+      "fr": "Combien vaut la racine carrée de 144 ?",
+      "en": "What is the square root of 144?",
+      "es": "¿Cuánto vale la raíz cuadrada de 144?",
+      "de": "Was ist die Quadratwurzel von 144?"
+    },
+    "choiceLeft": { "fr": "14", "en": "14", "es": "14", "de": "14" },
+    "choiceRight": { "fr": "12", "en": "12", "es": "12", "de": "12" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "12 × 12 = 144, donc la racine carrée de 144 est 12.",
+      "en": "12 × 12 = 144, so the square root of 144 is 12.",
+      "es": "12 × 12 = 144, por lo que la raíz cuadrada de 144 es 12.",
+      "de": "12 × 12 = 144, also ist die Quadratwurzel von 144 gleich 12."
+    },
+    "emoji": "📐"
+  },
+  {
+    "id": "cg_mathematics_003",
+    "topCategory": "culture_generale",
+    "subCategory": "mathematics",
+    "question": {
+      "fr": "Qu'est-ce qu'un nombre premier ?",
+      "en": "What is a prime number?",
+      "es": "¿Qué es un número primo?",
+      "de": "Was ist eine Primzahl?"
+    },
+    "choiceLeft": { "fr": "Divisible par 1 et lui-même", "en": "Divisible by 1 and itself", "es": "Divisible por 1 y sí mismo", "de": "Durch 1 und sich selbst teilbar" },
+    "choiceRight": { "fr": "Divisible par 2", "en": "Divisible by 2", "es": "Divisible por 2", "de": "Durch 2 teilbar" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Un nombre premier n'est divisible que par 1 et par lui-même (ex. 2, 3, 5, 7, 11…).",
+      "en": "A prime number is only divisible by 1 and itself (e.g., 2, 3, 5, 7, 11…).",
+      "es": "Un número primo solo es divisible por 1 y por sí mismo (ej. 2, 3, 5, 7, 11…).",
+      "de": "Eine Primzahl ist nur durch 1 und sich selbst teilbar (z.B. 2, 3, 5, 7, 11…)."
+    },
+    "emoji": "🔢"
+  },
+  {
+    "id": "cg_mathematics_004",
+    "topCategory": "culture_generale",
+    "subCategory": "mathematics",
+    "question": {
+      "fr": "Combien de faces a un dodécaèdre ?",
+      "en": "How many faces does a dodecahedron have?",
+      "es": "¿Cuántas caras tiene un dodecaedro?",
+      "de": "Wie viele Flächen hat ein Dodekaeder?"
+    },
+    "choiceLeft": { "fr": "10", "en": "10", "es": "10", "de": "10" },
+    "choiceRight": { "fr": "12", "en": "12", "es": "12", "de": "12" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le préfixe « dodéca » signifie 12 en grec. Un dodécaèdre a 12 faces pentagonales.",
+      "en": "The prefix 'dodeca' means 12 in Greek. A dodecahedron has 12 pentagonal faces.",
+      "es": "El prefijo «dodeca» significa 12 en griego. Un dodecaedro tiene 12 caras pentagonales.",
+      "de": "Das Präfix «Dodeka» bedeutet 12 auf Griechisch. Ein Dodekaeder hat 12 fünfeckige Flächen."
+    },
+    "emoji": "🎲"
+  },
+  {
+    "id": "cg_mathematics_005",
+    "topCategory": "culture_generale",
+    "subCategory": "mathematics",
+    "question": {
+      "fr": "Qui a formulé le dernier théorème resté non démontré pendant 358 ans ?",
+      "en": "Who formulated the last theorem that remained unproven for 358 years?",
+      "es": "¿Quién formuló el último teorema que permaneció sin demostrar durante 358 años?",
+      "de": "Wer formulierte den letzten Satz, der 358 Jahre lang unbewiesen blieb?"
+    },
+    "choiceLeft": { "fr": "Fermat", "en": "Fermat", "es": "Fermat", "de": "Fermat" },
+    "choiceRight": { "fr": "Euler", "en": "Euler", "es": "Euler", "de": "Euler" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Le dernier théorème de Fermat (1637) n'a été démontré qu'en 1995 par Andrew Wiles.",
+      "en": "Fermat's Last Theorem (1637) was only proven in 1995 by Andrew Wiles.",
+      "es": "El último teorema de Fermat (1637) fue demostrado en 1995 por Andrew Wiles.",
+      "de": "Fermats letzter Satz (1637) wurde erst 1995 von Andrew Wiles bewiesen."
+    },
+    "emoji": "📝"
+  },
+  {
+    "id": "cg_mathematics_006",
+    "topCategory": "culture_generale",
+    "subCategory": "mathematics",
+    "question": {
+      "fr": "Que vaut la factorielle de 5 (5!) ?",
+      "en": "What is the factorial of 5 (5!)?",
+      "es": "¿Cuánto vale el factorial de 5 (5!)?",
+      "de": "Was ist die Fakultät von 5 (5!)?"
+    },
+    "choiceLeft": { "fr": "120", "en": "120", "es": "120", "de": "120" },
+    "choiceRight": { "fr": "60", "en": "60", "es": "60", "de": "60" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "5! = 5 × 4 × 3 × 2 × 1 = 120.",
+      "en": "5! = 5 × 4 × 3 × 2 × 1 = 120.",
+      "es": "5! = 5 × 4 × 3 × 2 × 1 = 120.",
+      "de": "5! = 5 × 4 × 3 × 2 × 1 = 120."
+    },
+    "emoji": "🧮"
+  },
+  {
+    "id": "cg_mathematics_007",
+    "topCategory": "culture_generale",
+    "subCategory": "mathematics",
+    "question": {
+      "fr": "Qu'est-ce que le nombre d'or (valeur approchée) ?",
+      "en": "What is the golden ratio (approximate value)?",
+      "es": "¿Cuál es el número áureo (valor aproximado)?",
+      "de": "Was ist der Goldene Schnitt (Näherungswert)?"
+    },
+    "choiceLeft": { "fr": "1,414", "en": "1.414", "es": "1,414", "de": "1,414" },
+    "choiceRight": { "fr": "1,618", "en": "1.618", "es": "1,618", "de": "1,618" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le nombre d'or (φ) vaut environ 1,618. Le nombre 1,414 est la racine carrée de 2.",
+      "en": "The golden ratio (φ) is approximately 1.618. The number 1.414 is the square root of 2.",
+      "es": "El número áureo (φ) vale aproximadamente 1,618. El 1,414 es la raíz cuadrada de 2.",
+      "de": "Der Goldene Schnitt (φ) beträgt ungefähr 1,618. Die Zahl 1,414 ist die Quadratwurzel von 2."
+    },
+    "emoji": "🌀"
+  },
+  {
+    "id": "cg_mathematics_008",
+    "topCategory": "culture_generale",
+    "subCategory": "mathematics",
+    "question": {
+      "fr": "Quel est le résultat de 2 puissance 10 ?",
+      "en": "What is 2 to the power of 10?",
+      "es": "¿Cuánto es 2 elevado a 10?",
+      "de": "Was ist 2 hoch 10?"
+    },
+    "choiceLeft": { "fr": "512", "en": "512", "es": "512", "de": "512" },
+    "choiceRight": { "fr": "1024", "en": "1024", "es": "1024", "de": "1024" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "2¹⁰ = 1024. C'est aussi la base du kilooctet en informatique. 512 = 2⁹.",
+      "en": "2¹⁰ = 1024. This is also the basis for the kilobyte in computing. 512 = 2⁹.",
+      "es": "2¹⁰ = 1024. También es la base del kilobyte en informática. 512 = 2⁹.",
+      "de": "2¹⁰ = 1024. Dies ist auch die Grundlage des Kilobytes in der Informatik. 512 = 2⁹."
+    },
+    "emoji": "💻"
+  },
+  {
+    "id": "cg_mathematics_009",
+    "topCategory": "culture_generale",
+    "subCategory": "mathematics",
+    "question": {
+      "fr": "Quelle suite commence par 0, 1, 1, 2, 3, 5, 8, 13 ?",
+      "en": "Which sequence starts with 0, 1, 1, 2, 3, 5, 8, 13?",
+      "es": "¿Qué sucesión comienza con 0, 1, 1, 2, 3, 5, 8, 13?",
+      "de": "Welche Folge beginnt mit 0, 1, 1, 2, 3, 5, 8, 13?"
+    },
+    "choiceLeft": { "fr": "Suite de Fibonacci", "en": "Fibonacci sequence", "es": "Sucesión de Fibonacci", "de": "Fibonacci-Folge" },
+    "choiceRight": { "fr": "Suite de Catalan", "en": "Catalan sequence", "es": "Sucesión de Catalan", "de": "Catalan-Folge" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Dans la suite de Fibonacci, chaque terme est la somme des deux précédents : 0+1=1, 1+1=2, 1+2=3, etc.",
+      "en": "In the Fibonacci sequence, each term is the sum of the two preceding ones: 0+1=1, 1+1=2, 1+2=3, etc.",
+      "es": "En la sucesión de Fibonacci, cada término es la suma de los dos anteriores: 0+1=1, 1+1=2, 1+2=3, etc.",
+      "de": "In der Fibonacci-Folge ist jeder Term die Summe der beiden vorhergehenden: 0+1=1, 1+1=2, 1+2=3, usw."
+    },
+    "emoji": "🐚"
+  },
+  {
+    "id": "cg_mathematics_010",
+    "topCategory": "culture_generale",
+    "subCategory": "mathematics",
+    "question": {
+      "fr": "Combien y a-t-il de degrés dans un triangle ?",
+      "en": "How many degrees are in a triangle?",
+      "es": "¿Cuántos grados tiene un triángulo?",
+      "de": "Wie viele Grad hat ein Dreieck?"
+    },
+    "choiceLeft": { "fr": "360°", "en": "360°", "es": "360°", "de": "360°" },
+    "choiceRight": { "fr": "180°", "en": "180°", "es": "180°", "de": "180°" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "La somme des angles d'un triangle est toujours 180°. Un cercle complet fait 360°.",
+      "en": "The sum of a triangle's angles is always 180°. A full circle is 360°.",
+      "es": "La suma de los ángulos de un triángulo siempre es 180°. Un círculo completo tiene 360°.",
+      "de": "Die Winkelsumme eines Dreiecks beträgt immer 180°. Ein voller Kreis hat 360°."
+    },
+    "emoji": "📐"
+  },
+  {
+    "id": "cg_art_culture_001",
+    "topCategory": "culture_generale",
+    "subCategory": "art_culture",
+    "question": {
+      "fr": "Qui a peint La Joconde ?",
+      "en": "Who painted the Mona Lisa?",
+      "es": "¿Quién pintó La Gioconda?",
+      "de": "Wer hat die Mona Lisa gemalt?"
+    },
+    "choiceLeft": { "fr": "Léonard de Vinci", "en": "Leonardo da Vinci", "es": "Leonardo da Vinci", "de": "Leonardo da Vinci" },
+    "choiceRight": { "fr": "Michel-Ange", "en": "Michelangelo", "es": "Miguel Ángel", "de": "Michelangelo" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Léonard de Vinci a peint La Joconde entre 1503 et 1519. Elle est exposée au Louvre à Paris.",
+      "en": "Leonardo da Vinci painted the Mona Lisa between 1503 and 1519. It is displayed at the Louvre in Paris.",
+      "es": "Leonardo da Vinci pintó La Gioconda entre 1503 y 1519. Se exhibe en el Louvre de París.",
+      "de": "Leonardo da Vinci malte die Mona Lisa zwischen 1503 und 1519. Sie hängt im Louvre in Paris."
+    },
+    "emoji": "🎨"
+  },
+  {
+    "id": "cg_art_culture_002",
+    "topCategory": "culture_generale",
+    "subCategory": "art_culture",
+    "question": {
+      "fr": "Qui a composé la Neuvième Symphonie avec l'Ode à la Joie ?",
+      "en": "Who composed the Ninth Symphony with the Ode to Joy?",
+      "es": "¿Quién compuso la Novena Sinfonía con la Oda a la Alegría?",
+      "de": "Wer komponierte die Neunte Sinfonie mit der Ode an die Freude?"
+    },
+    "choiceLeft": { "fr": "Mozart", "en": "Mozart", "es": "Mozart", "de": "Mozart" },
+    "choiceRight": { "fr": "Beethoven", "en": "Beethoven", "es": "Beethoven", "de": "Beethoven" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Ludwig van Beethoven a composé sa 9e symphonie en 1824, alors qu'il était presque totalement sourd.",
+      "en": "Ludwig van Beethoven composed his 9th Symphony in 1824, when he was almost completely deaf.",
+      "es": "Ludwig van Beethoven compuso su 9ª sinfonía en 1824, cuando estaba casi totalmente sordo.",
+      "de": "Ludwig van Beethoven komponierte seine 9. Sinfonie 1824, als er fast völlig taub war."
+    },
+    "emoji": "🎵"
+  },
+  {
+    "id": "cg_art_culture_003",
+    "topCategory": "culture_generale",
+    "subCategory": "art_culture",
+    "question": {
+      "fr": "Dans quel musée se trouve la Vénus de Milo ?",
+      "en": "In which museum is the Venus de Milo?",
+      "es": "¿En qué museo se encuentra la Venus de Milo?",
+      "de": "In welchem Museum befindet sich die Venus von Milo?"
+    },
+    "choiceLeft": { "fr": "Le Louvre", "en": "The Louvre", "es": "El Louvre", "de": "Der Louvre" },
+    "choiceRight": { "fr": "Le British Museum", "en": "The British Museum", "es": "El Museo Británico", "de": "Das British Museum" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "La Vénus de Milo est exposée au musée du Louvre à Paris depuis 1821.",
+      "en": "The Venus de Milo has been displayed at the Louvre Museum in Paris since 1821.",
+      "es": "La Venus de Milo se exhibe en el Museo del Louvre en París desde 1821.",
+      "de": "Die Venus von Milo ist seit 1821 im Louvre in Paris ausgestellt."
+    },
+    "emoji": "🏛️"
+  },
+  {
+    "id": "cg_art_culture_004",
+    "topCategory": "culture_generale",
+    "subCategory": "art_culture",
+    "question": {
+      "fr": "Qui a écrit « Les Misérables » ?",
+      "en": "Who wrote 'Les Misérables'?",
+      "es": "¿Quién escribió «Los Miserables»?",
+      "de": "Wer schrieb «Die Elenden»?"
+    },
+    "choiceLeft": { "fr": "Émile Zola", "en": "Émile Zola", "es": "Émile Zola", "de": "Émile Zola" },
+    "choiceRight": { "fr": "Victor Hugo", "en": "Victor Hugo", "es": "Victor Hugo", "de": "Victor Hugo" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Victor Hugo a publié Les Misérables en 1862. C'est l'un des plus grands romans de la littérature française.",
+      "en": "Victor Hugo published Les Misérables in 1862. It is one of the greatest novels in French literature.",
+      "es": "Victor Hugo publicó Los Miserables en 1862. Es una de las mayores novelas de la literatura francesa.",
+      "de": "Victor Hugo veröffentlichte Die Elenden 1862. Es ist einer der größten Romane der französischen Literatur."
+    },
+    "emoji": "📚"
+  },
+  {
+    "id": "cg_art_culture_005",
+    "topCategory": "culture_generale",
+    "subCategory": "art_culture",
+    "question": {
+      "fr": "Quel mouvement artistique Picasso a-t-il cofondé ?",
+      "en": "Which artistic movement did Picasso co-found?",
+      "es": "¿Qué movimiento artístico cofundó Picasso?",
+      "de": "Welche Kunstbewegung hat Picasso mitbegründet?"
+    },
+    "choiceLeft": { "fr": "Le cubisme", "en": "Cubism", "es": "El cubismo", "de": "Der Kubismus" },
+    "choiceRight": { "fr": "L'impressionnisme", "en": "Impressionism", "es": "El impresionismo", "de": "Der Impressionismus" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Picasso a cofondé le cubisme avec Georges Braque au début du XXe siècle.",
+      "en": "Picasso co-founded Cubism with Georges Braque in the early 20th century.",
+      "es": "Picasso cofundó el cubismo con Georges Braque a principios del siglo XX.",
+      "de": "Picasso begründete den Kubismus zusammen mit Georges Braque Anfang des 20. Jahrhunderts."
+    },
+    "emoji": "🖼️"
+  },
+  {
+    "id": "cg_art_culture_006",
+    "topCategory": "culture_generale",
+    "subCategory": "art_culture",
+    "question": {
+      "fr": "Qui a peint « La Nuit étoilée » ?",
+      "en": "Who painted 'The Starry Night'?",
+      "es": "¿Quién pintó «La noche estrellada»?",
+      "de": "Wer malte «Die Sternennacht»?"
+    },
+    "choiceLeft": { "fr": "Claude Monet", "en": "Claude Monet", "es": "Claude Monet", "de": "Claude Monet" },
+    "choiceRight": { "fr": "Vincent van Gogh", "en": "Vincent van Gogh", "es": "Vincent van Gogh", "de": "Vincent van Gogh" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Van Gogh a peint La Nuit étoilée en 1889 à l'asile de Saint-Rémy-de-Provence.",
+      "en": "Van Gogh painted The Starry Night in 1889 at the asylum in Saint-Rémy-de-Provence.",
+      "es": "Van Gogh pintó La noche estrellada en 1889 en el asilo de Saint-Rémy-de-Provence.",
+      "de": "Van Gogh malte Die Sternennacht 1889 in der Heilanstalt von Saint-Rémy-de-Provence."
+    },
+    "emoji": "🌌"
+  },
+  {
+    "id": "cg_art_culture_007",
+    "topCategory": "culture_generale",
+    "subCategory": "art_culture",
+    "question": {
+      "fr": "Quel instrument Stradivarius fabriquait-il ?",
+      "en": "What instrument did Stradivarius make?",
+      "es": "¿Qué instrumento fabricaba Stradivarius?",
+      "de": "Welches Instrument baute Stradivari?"
+    },
+    "choiceLeft": { "fr": "Le violon", "en": "The violin", "es": "El violín", "de": "Die Geige" },
+    "choiceRight": { "fr": "Le piano", "en": "The piano", "es": "El piano", "de": "Das Klavier" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Antonio Stradivari (1644–1737) fabriquait des violons, altos et violoncelles à Crémone, en Italie.",
+      "en": "Antonio Stradivari (1644–1737) made violins, violas, and cellos in Cremona, Italy.",
+      "es": "Antonio Stradivari (1644–1737) fabricaba violines, violas y violonchelos en Cremona, Italia.",
+      "de": "Antonio Stradivari (1644–1737) baute Geigen, Bratschen und Celli in Cremona, Italien."
+    },
+    "emoji": "🎻"
+  },
+  {
+    "id": "cg_art_culture_008",
+    "topCategory": "culture_generale",
+    "subCategory": "art_culture",
+    "question": {
+      "fr": "Qui a sculpté le David en marbre exposé à Florence ?",
+      "en": "Who sculpted the marble David displayed in Florence?",
+      "es": "¿Quién esculpió el David de mármol expuesto en Florencia?",
+      "de": "Wer schuf den Marmor-David in Florenz?"
+    },
+    "choiceLeft": { "fr": "Donatello", "en": "Donatello", "es": "Donatello", "de": "Donatello" },
+    "choiceRight": { "fr": "Michel-Ange", "en": "Michelangelo", "es": "Miguel Ángel", "de": "Michelangelo" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Michel-Ange a sculpté le David en marbre entre 1501 et 1504. Donatello a réalisé un David en bronze.",
+      "en": "Michelangelo sculpted the marble David between 1501 and 1504. Donatello made a bronze David.",
+      "es": "Miguel Ángel esculpió el David de mármol entre 1501 y 1504. Donatello realizó un David de bronce.",
+      "de": "Michelangelo schuf den Marmor-David zwischen 1501 und 1504. Donatello fertigte einen Bronze-David."
+    },
+    "emoji": "🗿"
+  },
+  {
+    "id": "cg_art_culture_009",
+    "topCategory": "culture_generale",
+    "subCategory": "art_culture",
+    "question": {
+      "fr": "Quel est le style architectural de la cathédrale Notre-Dame de Paris ?",
+      "en": "What architectural style is Notre-Dame de Paris Cathedral?",
+      "es": "¿Cuál es el estilo arquitectónico de la catedral de Notre-Dame de París?",
+      "de": "Welchen Baustil hat die Kathedrale Notre-Dame de Paris?"
+    },
+    "choiceLeft": { "fr": "Gothique", "en": "Gothic", "es": "Gótico", "de": "Gotik" },
+    "choiceRight": { "fr": "Roman", "en": "Romanesque", "es": "Románico", "de": "Romanik" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Notre-Dame de Paris est un chef-d'œuvre de l'architecture gothique, construite entre 1163 et 1345.",
+      "en": "Notre-Dame de Paris is a masterpiece of Gothic architecture, built between 1163 and 1345.",
+      "es": "Notre-Dame de París es una obra maestra de la arquitectura gótica, construida entre 1163 y 1345.",
+      "de": "Notre-Dame de Paris ist ein Meisterwerk der gotischen Architektur, erbaut zwischen 1163 und 1345."
+    },
+    "emoji": "⛪"
+  },
+  {
+    "id": "cg_art_culture_010",
+    "topCategory": "culture_generale",
+    "subCategory": "art_culture",
+    "question": {
+      "fr": "Qui a composé « Les Quatre Saisons » ?",
+      "en": "Who composed 'The Four Seasons'?",
+      "es": "¿Quién compuso «Las cuatro estaciones»?",
+      "de": "Wer komponierte «Die vier Jahreszeiten»?"
+    },
+    "choiceLeft": { "fr": "Bach", "en": "Bach", "es": "Bach", "de": "Bach" },
+    "choiceRight": { "fr": "Vivaldi", "en": "Vivaldi", "es": "Vivaldi", "de": "Vivaldi" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Antonio Vivaldi a composé Les Quatre Saisons en 1725, l'une des œuvres les plus connues de la musique baroque.",
+      "en": "Antonio Vivaldi composed The Four Seasons in 1725, one of the most famous works of Baroque music.",
+      "es": "Antonio Vivaldi compuso Las cuatro estaciones en 1725, una de las obras más famosas de la música barroca.",
+      "de": "Antonio Vivaldi komponierte Die vier Jahreszeiten 1725, eines der bekanntesten Werke der Barockmusik."
+    },
+    "emoji": "🎶"
+  },
+  {
+    "id": "cg_food_001",
+    "topCategory": "culture_generale",
+    "subCategory": "food",
+    "question": {
+      "fr": "De quel pays est originaire le sushi ?",
+      "en": "Which country does sushi originate from?",
+      "es": "¿De qué país es originario el sushi?",
+      "de": "Aus welchem Land stammt Sushi?"
+    },
+    "choiceLeft": { "fr": "Chine", "en": "China", "es": "China", "de": "China" },
+    "choiceRight": { "fr": "Japon", "en": "Japan", "es": "Japón", "de": "Japan" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le sushi tel qu'on le connaît a été développé au Japon, même si le concept de poisson fermenté avec du riz vient de Chine.",
+      "en": "Sushi as we know it was developed in Japan, although the concept of fermented fish with rice came from China.",
+      "es": "El sushi como lo conocemos se desarrolló en Japón, aunque el concepto de pescado fermentado con arroz proviene de China.",
+      "de": "Sushi, wie wir es kennen, wurde in Japan entwickelt, obwohl das Konzept von fermentiertem Fisch mit Reis aus China stammt."
+    },
+    "emoji": "🍣"
+  },
+  {
+    "id": "cg_food_002",
+    "topCategory": "culture_generale",
+    "subCategory": "food",
+    "question": {
+      "fr": "Quelle épice est la plus chère au monde au poids ?",
+      "en": "Which spice is the most expensive in the world by weight?",
+      "es": "¿Cuál es la especia más cara del mundo por peso?",
+      "de": "Welches Gewürz ist das teuerste der Welt nach Gewicht?"
+    },
+    "choiceLeft": { "fr": "Safran", "en": "Saffron", "es": "Azafrán", "de": "Safran" },
+    "choiceRight": { "fr": "Vanille", "en": "Vanilla", "es": "Vainilla", "de": "Vanille" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Le safran coûte entre 5 000 et 10 000 € le kilo car il faut 150 000 fleurs pour produire 1 kg.",
+      "en": "Saffron costs between €5,000 and €10,000 per kg because it takes 150,000 flowers to produce 1 kg.",
+      "es": "El azafrán cuesta entre 5.000 y 10.000 € el kilo porque se necesitan 150.000 flores para producir 1 kg.",
+      "de": "Safran kostet zwischen 5.000 und 10.000 € pro kg, da 150.000 Blüten für 1 kg benötigt werden."
+    },
+    "emoji": "🌸"
+  },
+  {
+    "id": "cg_food_003",
+    "topCategory": "culture_generale",
+    "subCategory": "food",
+    "question": {
+      "fr": "D'où vient le chocolat à l'origine ?",
+      "en": "Where does chocolate originally come from?",
+      "es": "¿De dónde proviene originalmente el chocolate?",
+      "de": "Woher stammt Schokolade ursprünglich?"
+    },
+    "choiceLeft": { "fr": "Afrique", "en": "Africa", "es": "África", "de": "Afrika" },
+    "choiceRight": { "fr": "Amérique centrale", "en": "Central America", "es": "América Central", "de": "Mittelamerika" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le cacao est originaire d'Amérique centrale et du Sud. Les Aztèques et Mayas en faisaient une boisson sacrée.",
+      "en": "Cacao is native to Central and South America. The Aztecs and Maya made it into a sacred drink.",
+      "es": "El cacao es originario de América Central y del Sur. Los aztecas y mayas hacían con él una bebida sagrada.",
+      "de": "Kakao stammt aus Mittel- und Südamerika. Azteken und Maya bereiteten daraus ein heiliges Getränk."
+    },
+    "emoji": "🍫"
+  },
+  {
+    "id": "cg_food_004",
+    "topCategory": "culture_generale",
+    "subCategory": "food",
+    "question": {
+      "fr": "Quel est le fromage le plus consommé au monde ?",
+      "en": "What is the most consumed cheese in the world?",
+      "es": "¿Cuál es el queso más consumido del mundo?",
+      "de": "Was ist der meistgegessene Käse der Welt?"
+    },
+    "choiceLeft": { "fr": "Mozzarella", "en": "Mozzarella", "es": "Mozzarella", "de": "Mozzarella" },
+    "choiceRight": { "fr": "Cheddar", "en": "Cheddar", "es": "Cheddar", "de": "Cheddar" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "La mozzarella est le fromage le plus consommé au monde, notamment grâce à la pizza.",
+      "en": "Mozzarella is the most consumed cheese worldwide, largely thanks to pizza.",
+      "es": "La mozzarella es el queso más consumido del mundo, en gran parte gracias a la pizza.",
+      "de": "Mozzarella ist der meistgegessene Käse der Welt, vor allem dank der Pizza."
+    },
+    "emoji": "🧀"
+  },
+  {
+    "id": "cg_food_005",
+    "topCategory": "culture_generale",
+    "subCategory": "food",
+    "question": {
+      "fr": "Quel pays produit le plus de café au monde ?",
+      "en": "Which country produces the most coffee in the world?",
+      "es": "¿Qué país produce más café en el mundo?",
+      "de": "Welches Land produziert weltweit am meisten Kaffee?"
+    },
+    "choiceLeft": { "fr": "Colombie", "en": "Colombia", "es": "Colombia", "de": "Kolumbien" },
+    "choiceRight": { "fr": "Brésil", "en": "Brazil", "es": "Brasil", "de": "Brasilien" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le Brésil est le premier producteur mondial de café, avec environ un tiers de la production mondiale.",
+      "en": "Brazil is the world's largest coffee producer, accounting for about one-third of global production.",
+      "es": "Brasil es el mayor productor mundial de café, con aproximadamente un tercio de la producción global.",
+      "de": "Brasilien ist der größte Kaffeeproduzent der Welt und liefert etwa ein Drittel der weltweiten Produktion."
+    },
+    "emoji": "☕"
+  },
+  {
+    "id": "cg_food_006",
+    "topCategory": "culture_generale",
+    "subCategory": "food",
+    "question": {
+      "fr": "Quel fruit est connu pour son odeur très forte en Asie du Sud-Est ?",
+      "en": "Which fruit is known for its very strong smell in Southeast Asia?",
+      "es": "¿Qué fruta es conocida por su olor muy fuerte en el Sudeste Asiático?",
+      "de": "Welche Frucht ist für ihren sehr starken Geruch in Südostasien bekannt?"
+    },
+    "choiceLeft": { "fr": "Durian", "en": "Durian", "es": "Durián", "de": "Durian" },
+    "choiceRight": { "fr": "Jacquier", "en": "Jackfruit", "es": "Jaca", "de": "Jackfrucht" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Le durian est surnommé « le roi des fruits ». Son odeur est si forte qu'il est interdit dans certains hôtels et transports.",
+      "en": "Durian is nicknamed 'the king of fruits'. Its smell is so strong it's banned in some hotels and public transport.",
+      "es": "El durián es apodado «el rey de las frutas». Su olor es tan fuerte que está prohibido en algunos hoteles y transportes.",
+      "de": "Die Durian wird «König der Früchte» genannt. Ihr Geruch ist so stark, dass sie in manchen Hotels und Verkehrsmitteln verboten ist."
+    },
+    "emoji": "🍈"
+  },
+  {
+    "id": "cg_food_007",
+    "topCategory": "culture_generale",
+    "subCategory": "food",
+    "question": {
+      "fr": "Quel est l'ingrédient principal du guacamole ?",
+      "en": "What is the main ingredient of guacamole?",
+      "es": "¿Cuál es el ingrediente principal del guacamole?",
+      "de": "Was ist die Hauptzutat von Guacamole?"
+    },
+    "choiceLeft": { "fr": "Tomate", "en": "Tomato", "es": "Tomate", "de": "Tomate" },
+    "choiceRight": { "fr": "Avocat", "en": "Avocado", "es": "Aguacate", "de": "Avocado" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le guacamole est à base d'avocat écrasé. Le mot vient du nahuatl « ahuacamolli » (sauce d'avocat).",
+      "en": "Guacamole is based on mashed avocado. The word comes from Nahuatl 'ahuacamolli' (avocado sauce).",
+      "es": "El guacamole está hecho a base de aguacate machacado. La palabra viene del náhuatl «ahuacamolli» (salsa de aguacate).",
+      "de": "Guacamole basiert auf zerstampfter Avocado. Das Wort kommt aus dem Nahuatl «ahuacamolli» (Avocado-Soße)."
+    },
+    "emoji": "🥑"
+  },
+  {
+    "id": "cg_food_008",
+    "topCategory": "culture_generale",
+    "subCategory": "food",
+    "question": {
+      "fr": "Quelle boisson est produite par fermentation du raisin ?",
+      "en": "Which beverage is produced by fermenting grapes?",
+      "es": "¿Qué bebida se produce por fermentación de la uva?",
+      "de": "Welches Getränk wird durch Gärung von Trauben hergestellt?"
+    },
+    "choiceLeft": { "fr": "Le vin", "en": "Wine", "es": "El vino", "de": "Wein" },
+    "choiceRight": { "fr": "La bière", "en": "Beer", "es": "La cerveza", "de": "Bier" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Le vin est obtenu par la fermentation du jus de raisin. La bière est faite à partir de céréales.",
+      "en": "Wine is made by fermenting grape juice. Beer is made from cereals.",
+      "es": "El vino se obtiene por fermentación del jugo de uva. La cerveza se hace con cereales.",
+      "de": "Wein wird durch Gärung von Traubensaft hergestellt. Bier wird aus Getreide gebraut."
+    },
+    "emoji": "🍷"
+  },
+  {
+    "id": "cg_food_009",
+    "topCategory": "culture_generale",
+    "subCategory": "food",
+    "question": {
+      "fr": "Quel aliment de base nourrit plus de la moitié de la population mondiale ?",
+      "en": "Which staple food feeds more than half the world's population?",
+      "es": "¿Qué alimento básico alimenta a más de la mitad de la población mundial?",
+      "de": "Welches Grundnahrungsmittel ernährt mehr als die Hälfte der Weltbevölkerung?"
+    },
+    "choiceLeft": { "fr": "Le blé", "en": "Wheat", "es": "El trigo", "de": "Weizen" },
+    "choiceRight": { "fr": "Le riz", "en": "Rice", "es": "El arroz", "de": "Reis" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Le riz est l'aliment de base de plus de 3,5 milliards de personnes, surtout en Asie.",
+      "en": "Rice is the staple food for over 3.5 billion people, mainly in Asia.",
+      "es": "El arroz es el alimento básico de más de 3.500 millones de personas, principalmente en Asia.",
+      "de": "Reis ist das Grundnahrungsmittel für über 3,5 Milliarden Menschen, hauptsächlich in Asien."
+    },
+    "emoji": "🍚"
+  },
+  {
+    "id": "cg_food_010",
+    "topCategory": "culture_generale",
+    "subCategory": "food",
+    "question": {
+      "fr": "Quel est le piment le plus fort selon l'échelle de Scoville ?",
+      "en": "What is the hottest pepper on the Scoville scale?",
+      "es": "¿Cuál es el pimiento más picante según la escala Scoville?",
+      "de": "Was ist die schärfste Paprika auf der Scoville-Skala?"
+    },
+    "choiceLeft": { "fr": "Carolina Reaper", "en": "Carolina Reaper", "es": "Carolina Reaper", "de": "Carolina Reaper" },
+    "choiceRight": { "fr": "Habanero", "en": "Habanero", "es": "Habanero", "de": "Habanero" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Le Carolina Reaper détient le record Guinness avec une moyenne de 1,64 million d'unités Scoville.",
+      "en": "The Carolina Reaper holds the Guinness record with an average of 1.64 million Scoville units.",
+      "es": "El Carolina Reaper tiene el récord Guinness con un promedio de 1,64 millones de unidades Scoville.",
+      "de": "Die Carolina Reaper hält den Guinness-Rekord mit durchschnittlich 1,64 Millionen Scoville-Einheiten."
+    },
+    "emoji": "🌶️"
+  },
+  {
+    "id": "cg_space_001",
+    "topCategory": "culture_generale",
+    "subCategory": "space",
+    "question": {
+      "fr": "Quelle planète est la plus proche du Soleil ?",
+      "en": "Which planet is closest to the Sun?",
+      "es": "¿Qué planeta está más cerca del Sol?",
+      "de": "Welcher Planet ist der Sonne am nächsten?"
+    },
+    "choiceLeft": { "fr": "Vénus", "en": "Venus", "es": "Venus", "de": "Venus" },
+    "choiceRight": { "fr": "Mercure", "en": "Mercury", "es": "Mercurio", "de": "Merkur" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Mercure est la planète la plus proche du Soleil, à environ 58 millions de km.",
+      "en": "Mercury is the closest planet to the Sun, at about 58 million km.",
+      "es": "Mercurio es el planeta más cercano al Sol, a unos 58 millones de km.",
+      "de": "Merkur ist der sonnennächste Planet, in etwa 58 Millionen km Entfernung."
+    },
+    "emoji": "☀️"
+  },
+  {
+    "id": "cg_space_002",
+    "topCategory": "culture_generale",
+    "subCategory": "space",
+    "question": {
+      "fr": "Quelle planète est surnommée la « planète rouge » ?",
+      "en": "Which planet is nicknamed the 'Red Planet'?",
+      "es": "¿Qué planeta es apodado el «Planeta Rojo»?",
+      "de": "Welcher Planet wird «Roter Planet» genannt?"
+    },
+    "choiceLeft": { "fr": "Mars", "en": "Mars", "es": "Marte", "de": "Mars" },
+    "choiceRight": { "fr": "Jupiter", "en": "Jupiter", "es": "Júpiter", "de": "Jupiter" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Mars est rouge à cause de l'oxyde de fer (rouille) à sa surface.",
+      "en": "Mars is red because of iron oxide (rust) on its surface.",
+      "es": "Marte es rojo debido al óxido de hierro (herrumbre) en su superficie.",
+      "de": "Der Mars ist rot wegen des Eisenoxids (Rost) auf seiner Oberfläche."
+    },
+    "emoji": "🔴"
+  },
+  {
+    "id": "cg_space_003",
+    "topCategory": "culture_generale",
+    "subCategory": "space",
+    "question": {
+      "fr": "Combien de planètes compte notre système solaire ?",
+      "en": "How many planets does our solar system have?",
+      "es": "¿Cuántos planetas tiene nuestro sistema solar?",
+      "de": "Wie viele Planeten hat unser Sonnensystem?"
+    },
+    "choiceLeft": { "fr": "9", "en": "9", "es": "9", "de": "9" },
+    "choiceRight": { "fr": "8", "en": "8", "es": "8", "de": "8" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Depuis 2006, le système solaire compte 8 planètes. Pluton a été reclassée comme planète naine.",
+      "en": "Since 2006, the solar system has 8 planets. Pluto was reclassified as a dwarf planet.",
+      "es": "Desde 2006, el sistema solar tiene 8 planetas. Plutón fue reclasificado como planeta enano.",
+      "de": "Seit 2006 hat das Sonnensystem 8 Planeten. Pluto wurde zum Zwergplaneten herabgestuft."
+    },
+    "emoji": "🪐"
+  },
+  {
+    "id": "cg_space_004",
+    "topCategory": "culture_generale",
+    "subCategory": "space",
+    "question": {
+      "fr": "Qui a été le premier humain dans l'espace ?",
+      "en": "Who was the first human in space?",
+      "es": "¿Quién fue el primer humano en el espacio?",
+      "de": "Wer war der erste Mensch im Weltraum?"
+    },
+    "choiceLeft": { "fr": "Youri Gagarine", "en": "Yuri Gagarin", "es": "Yuri Gagarin", "de": "Juri Gagarin" },
+    "choiceRight": { "fr": "Alan Shepard", "en": "Alan Shepard", "es": "Alan Shepard", "de": "Alan Shepard" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Youri Gagarine a effectué le premier vol spatial habité le 12 avril 1961 à bord de Vostok 1.",
+      "en": "Yuri Gagarin made the first manned spaceflight on April 12, 1961, aboard Vostok 1.",
+      "es": "Yuri Gagarin realizó el primer vuelo espacial tripulado el 12 de abril de 1961 a bordo del Vostok 1.",
+      "de": "Juri Gagarin absolvierte am 12. April 1961 den ersten bemannten Raumflug an Bord der Wostok 1."
+    },
+    "emoji": "🚀"
+  },
+  {
+    "id": "cg_space_005",
+    "topCategory": "culture_generale",
+    "subCategory": "space",
+    "question": {
+      "fr": "Quelle est la plus grande planète du système solaire ?",
+      "en": "What is the largest planet in the solar system?",
+      "es": "¿Cuál es el planeta más grande del sistema solar?",
+      "de": "Was ist der größte Planet im Sonnensystem?"
+    },
+    "choiceLeft": { "fr": "Saturne", "en": "Saturn", "es": "Saturno", "de": "Saturn" },
+    "choiceRight": { "fr": "Jupiter", "en": "Jupiter", "es": "Júpiter", "de": "Jupiter" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Jupiter est la plus grande planète, avec un diamètre 11 fois supérieur à celui de la Terre.",
+      "en": "Jupiter is the largest planet, with a diameter 11 times that of Earth.",
+      "es": "Júpiter es el planeta más grande, con un diámetro 11 veces el de la Tierra.",
+      "de": "Jupiter ist der größte Planet mit einem Durchmesser, der 11-mal so groß ist wie der der Erde."
+    },
+    "emoji": "🪐"
+  },
+  {
+    "id": "cg_space_006",
+    "topCategory": "culture_generale",
+    "subCategory": "space",
+    "question": {
+      "fr": "Qu'est-ce qu'un trou noir ?",
+      "en": "What is a black hole?",
+      "es": "¿Qué es un agujero negro?",
+      "de": "Was ist ein schwarzes Loch?"
+    },
+    "choiceLeft": { "fr": "Étoile très brillante", "en": "Very bright star", "es": "Estrella muy brillante", "de": "Sehr heller Stern" },
+    "choiceRight": { "fr": "Gravité si forte que rien n'échappe", "en": "Gravity so strong nothing escapes", "es": "Gravedad tan fuerte que nada escapa", "de": "Gravitation so stark, dass nichts entkommt" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Un trou noir est une région de l'espace où la gravité est si intense que même la lumière ne peut s'en échapper.",
+      "en": "A black hole is a region of space where gravity is so intense that even light cannot escape.",
+      "es": "Un agujero negro es una región del espacio donde la gravedad es tan intensa que ni la luz puede escapar.",
+      "de": "Ein schwarzes Loch ist eine Region im Weltraum, in der die Gravitation so stark ist, dass nicht einmal Licht entweichen kann."
+    },
+    "emoji": "🕳️"
+  },
+  {
+    "id": "cg_space_007",
+    "topCategory": "culture_generale",
+    "subCategory": "space",
+    "question": {
+      "fr": "Combien de temps la lumière du Soleil met-elle pour atteindre la Terre ?",
+      "en": "How long does sunlight take to reach Earth?",
+      "es": "¿Cuánto tarda la luz del Sol en llegar a la Tierra?",
+      "de": "Wie lange braucht das Sonnenlicht, um die Erde zu erreichen?"
+    },
+    "choiceLeft": { "fr": "8 minutes", "en": "8 minutes", "es": "8 minutos", "de": "8 Minuten" },
+    "choiceRight": { "fr": "8 secondes", "en": "8 seconds", "es": "8 segundos", "de": "8 Sekunden" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "La lumière du Soleil met environ 8 minutes et 20 secondes pour parcourir les 150 millions de km jusqu'à la Terre.",
+      "en": "Sunlight takes about 8 minutes and 20 seconds to travel the 150 million km to Earth.",
+      "es": "La luz del Sol tarda unos 8 minutos y 20 segundos en recorrer los 150 millones de km hasta la Tierra.",
+      "de": "Das Sonnenlicht braucht etwa 8 Minuten und 20 Sekunden, um die 150 Millionen km zur Erde zurückzulegen."
+    },
+    "emoji": "🌞"
+  },
+  {
+    "id": "cg_space_008",
+    "topCategory": "culture_generale",
+    "subCategory": "space",
+    "question": {
+      "fr": "Quelle agence spatiale a envoyé les premiers hommes sur la Lune ?",
+      "en": "Which space agency sent the first humans to the Moon?",
+      "es": "¿Qué agencia espacial envió los primeros hombres a la Luna?",
+      "de": "Welche Raumfahrtbehörde schickte die ersten Menschen zum Mond?"
+    },
+    "choiceLeft": { "fr": "NASA", "en": "NASA", "es": "NASA", "de": "NASA" },
+    "choiceRight": { "fr": "ESA", "en": "ESA", "es": "ESA", "de": "ESA" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "La NASA a envoyé les astronautes d'Apollo 11 sur la Lune le 20 juillet 1969.",
+      "en": "NASA sent the Apollo 11 astronauts to the Moon on July 20, 1969.",
+      "es": "La NASA envió a los astronautas del Apolo 11 a la Luna el 20 de julio de 1969.",
+      "de": "Die NASA schickte die Astronauten von Apollo 11 am 20. Juli 1969 zum Mond."
+    },
+    "emoji": "🌕"
+  },
+  {
+    "id": "cg_space_009",
+    "topCategory": "culture_generale",
+    "subCategory": "space",
+    "question": {
+      "fr": "Comment s'appelle notre galaxie ?",
+      "en": "What is the name of our galaxy?",
+      "es": "¿Cómo se llama nuestra galaxia?",
+      "de": "Wie heißt unsere Galaxie?"
+    },
+    "choiceLeft": { "fr": "Andromède", "en": "Andromeda", "es": "Andrómeda", "de": "Andromeda" },
+    "choiceRight": { "fr": "La Voie lactée", "en": "The Milky Way", "es": "La Vía Láctea", "de": "Die Milchstraße" },
+    "correctAnswer": "right",
+    "explanation": {
+      "fr": "Notre système solaire se trouve dans la Voie lactée, une galaxie spirale de 100 000 années-lumière de diamètre.",
+      "en": "Our solar system is in the Milky Way, a spiral galaxy 100,000 light-years in diameter.",
+      "es": "Nuestro sistema solar está en la Vía Láctea, una galaxia espiral de 100.000 años luz de diámetro.",
+      "de": "Unser Sonnensystem befindet sich in der Milchstraße, einer Spiralgalaxie mit 100.000 Lichtjahren Durchmesser."
+    },
+    "emoji": "🌌"
+  },
+  {
+    "id": "cg_space_010",
+    "topCategory": "culture_generale",
+    "subCategory": "space",
+    "question": {
+      "fr": "Quelle planète a les anneaux les plus spectaculaires ?",
+      "en": "Which planet has the most spectacular rings?",
+      "es": "¿Qué planeta tiene los anillos más espectaculares?",
+      "de": "Welcher Planet hat die spektakulärsten Ringe?"
+    },
+    "choiceLeft": { "fr": "Saturne", "en": "Saturn", "es": "Saturno", "de": "Saturn" },
+    "choiceRight": { "fr": "Uranus", "en": "Uranus", "es": "Urano", "de": "Uranus" },
+    "correctAnswer": "left",
+    "explanation": {
+      "fr": "Saturne possède les anneaux les plus visibles et spectaculaires, composés de glace et de roches.",
+      "en": "Saturn has the most visible and spectacular rings, composed of ice and rock.",
+      "es": "Saturno posee los anillos más visibles y espectaculares, compuestos de hielo y roca.",
+      "de": "Saturn hat die sichtbarsten und spektakulärsten Ringe, die aus Eis und Gestein bestehen."
+    },
+    "emoji": "💫"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "identifier" : "A1B2C3D4",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "7.99",
+      "familyShareable" : false,
+      "internalID" : "E5F6A7B8",
+      "localizations" : [
+        {
+          "description" : "Débloquez 4 langues avec tous les niveaux CECRL (A1 à C2). Accès à vie.",
+          "displayName" : "Pack Langues",
+          "locale" : "fr"
+        },
+        {
+          "description" : "Unlock 4 languages with all CEFR levels (A1 to C2). Lifetime access.",
+          "displayName" : "Language Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.melvin.mindfilter.languagepack",
+      "referenceName" : "Language Pack",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

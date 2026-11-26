@@ -56,13 +56,15 @@ L'app ne se positionne **pas** comme un bloqueur de publicités. Elle se positio
 
 ### Cas d'usage principal
 
-1. L'utilisateur regarde une vidéo YouTube sur iPad
+1. L'utilisateur regarde une vidéo YouTube sur iPad (plein écran)
 2. Une publicité commence
-3. L'utilisateur lance l'app via un geste rapide (Slide Over depuis le Dock / Centre de Contrôle)
-4. L'app recouvre ~90% de l'écran, laissant visible la barre inférieure de YouTube
-5. L'utilisateur lit un ou plusieurs faits/citations en swipant
-6. Quand le bouton "Ignorer la pub" apparaît ou que la pub se termine, l'utilisateur fait glisser l'app hors de l'écran
-7. Retour instantané sur la vidéo
+3. L'utilisateur **swipe depuis le bord droit de l'écran** → MindFilter réapparaît instantanément en Slide Over, toujours à la même position (1 seul geste, < 1 seconde)
+4. YouTube continue de jouer en arrière-plan, visible à gauche
+5. L'utilisateur lit un ou plusieurs faits en swipant horizontalement
+6. Quand le bouton "Ignorer la pub" apparaît ou que la pub se termine, l'utilisateur swipe MindFilter vers le bord droit → l'app se cache (reste active en arrière-plan)
+7. Retour instantané sur YouTube plein écran
+
+> **Note** : Le swipe depuis le bord fonctionne parce que MindFilter a été placé en Slide Over une première fois (configuration initiale expliquée dans l'onboarding). Ensuite, l'app reste "cachée" sur le bord et revient toujours à la même position — aucune manipulation supplémentaire nécessaire.
 
 ### Cas d'usage secondaires
 
@@ -166,11 +168,14 @@ L'app ne se positionne **pas** comme un bloqueur de publicités. Elle se positio
 
 **Écran 3 — Comment utiliser avec Slide Over**
 - Tutoriel visuel étape par étape (images/GIFs)
-- Étape 1 : "Place the app in your Dock"
-- Étape 2 : "When an ad starts, drag the app from the Dock to the edge of the screen"
-- Étape 3 : "Swipe through facts while you wait"
-- Étape 4 : "Swipe the app away when you're done"
-- Indication que le raccourci clavier Globe + Option + Flèche fonctionne aussi avec Magic Keyboard
+- **Configuration initiale (une seule fois) :**
+  - Étape 1 : "Add MindFilter to your Dock" — glisser l'icône dans le Dock
+  - Étape 2 : "Drag it to the right edge of your screen" — l'app s'ouvre en Slide Over et se cache sur le bord
+- **Usage quotidien (à chaque pub) :**
+  - Étape 3 : "Swipe from the right edge" — MindFilter réapparaît instantanément, toujours à la même position
+  - Étape 4 : "Swipe through facts while you wait"
+  - Étape 5 : "Swipe it away when you're done" — l'app se cache, prête pour la prochaine pub
+- Message clé : *"One swipe. That's all it takes."*
 - Bouton : "Start Learning"
 
 **Écran 4 — Paywall**
@@ -582,18 +587,25 @@ L'app doit fonctionner correctement dans tous ces contextes :
 
 L'utilisateur doit être en mode **Windowed Apps** ou **Stage Manager** (pas "Full Screen Apps") pour utiliser Slide Over.
 
-**Méthodes de lancement rapide** (du plus rapide au moins rapide) :
+#### Configuration initiale (une seule fois)
 
-1. **Drag depuis le Dock** (iPadOS 26.2+) : Glisser l'icône de l'app depuis le Dock vers le bord gauche ou droit de l'écran → s'ouvre directement en Slide Over
-2. **Raccourci clavier** (si Magic Keyboard) : `Globe + Option + Flèche droite/gauche` → place l'app en Slide Over
-3. **Spotlight** : `Cmd + Espace` → taper le nom de l'app → glisser le résultat vers le bord
-4. **Centre de Contrôle** : Raccourci "Open App" configuré → ouvre l'app, puis passage manuel en Slide Over
+1. Ajouter MindFilter au Dock (maintenir l'icône → glisser dans le Dock)
+2. Ouvrir YouTube en plein écran
+3. Afficher le Dock (swipe lent depuis le bas) → glisser l'icône MindFilter vers le bord droit de l'écran
+4. MindFilter s'ouvre en Slide Over puis se cache sur le bord droit — **configuration terminée**
 
-**Comportement Slide Over clé** :
-- L'app reste en Slide Over tant qu'on ne la ferme pas explicitement
-- Swipe vers le bord → cache l'app (sans la fermer)
-- Swipe depuis le bord → la ramène instantanément
-- L'app flotte toujours au-dessus des autres fenêtres
+#### Usage quotidien (mécanisme principal)
+
+| Action | Geste | Vitesse |
+|--------|-------|---------|
+| Ouvrir MindFilter | Swipe depuis le bord droit de l'écran | < 1 seconde |
+| Cacher MindFilter | Swipe MindFilter vers le bord droit | < 1 seconde |
+
+- L'app reste **toujours à la même position** — pas besoin de la repositionner
+- L'app reste **active en arrière-plan** quand elle est cachée sur le bord
+- YouTube continue de jouer pendant toute la durée d'utilisation de MindFilter
+
+> **Message clé pour l'utilisateur** : *"One swipe. That's all it takes."* — après la configuration initiale, un seul geste suffit à chaque pub.
 
 ---
 

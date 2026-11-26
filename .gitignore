@@ -1,0 +1,18 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Xcode user state and build output
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Local credentials and tooling settings
+.env
+.env.*
+*.p12
+*.p8
+*.mobileprovision
+*recovery-kit*
+.claude/
