@@ -1,10 +1,6 @@
 # MindFilter
 
-MindFilter is a native iPhone and iPad app that turns short waits into quick quiz sessions. Choose a topic, answer a two-choice question, and get a short explanation. On iPad, the onboarding shows how to use the app alongside another app.
-
-- **1,145 offline questions** covering general knowledge and French, English, Spanish, and German.
-- **Adaptive review** that brings back missed questions and tracks which ones you’ve mastered.
-- **On-device progress** with quiz history, statistics, and category preferences.
+MindFilter was designed for iPad to turn ad breaks into quick language practice. When an unskippable YouTube ad starts, swipe MindFilter into view with Slide Over. The app lowers the video volume and lets you mute it with a tap. Even a 15-second break is enough to review a word or learn a new one before getting back to the video.
 
 ## Start with the code
 
